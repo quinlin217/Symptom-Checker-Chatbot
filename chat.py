@@ -1,6 +1,7 @@
 import random
 import json
 import torch
+import numpy as np
 
 import math
 import geocoder
@@ -112,33 +113,41 @@ def centres():
 
     # Get your current location based on your IP address
     location = geocoder.ip('me')
-
-    # Given location (latitude and longitude)
-    given_location = location.latlng  # Replace with your desired location
+    if not location.ok or not location.latlng:
+        return ["center", "Cannot detect your location. Please try again."]
+    given_lat, given_lon = location.latlng
 
     # Load the JSON data
     with open("medical_centers.json", "r") as json_file:
         medical_centers = json.load(json_file)
 
-    # Calculate distances to all medical centers
-    distances_to_centers = []
+    # Extract lat/lon arrays
+    center_lats = np.array([c["location"]["lat"] for c in medical_centers["intents"]])
+    center_lons = np.array([c["location"]["lon"] for c in medical_centers["intents"]])
 
-    for center in medical_centers["intents"]:
-        center_location = center["location"]
-        distance = haversine(given_location[0], given_location[1], center_location[0], center_location[1])
-        distances_to_centers.append((center["tag"], distance))
+    # Convert to radians
+    given_lat_rad = np.radians(given_lat)
+    given_lon_rad = np.radians(given_lon)
+    lats_rad = np.radians(center_lats)
+    lons_rad = np.radians(center_lons)
 
-    # Sort the list of distances in ascending order
-    distances_to_centers.sort(key=lambda x: x[1])
+    # Haversine formula vectorized
+    dlat = lats_rad - given_lat_rad
+    dlon = lons_rad - given_lon_rad
+    a = np.sin(dlat/2)**2 + np.cos(given_lat_rad)*np.cos(lats_rad)*np.sin(dlon/2)**2
+    c = 2 * np.arctan2(np.sqrt(a), np.sqrt(1 - a))
+    distances = 6371.0 * c  # km
 
-    l = ["center"]
+    # Get top 5 nearest centers
+    nearest_idx = np.argsort(distances)[:5]
 
+    # Prepare output list
+    output = ["center"]
+    for i in nearest_idx:
+        center = medical_centers["intents"][i]
+        output.append([center["name"], f"{round(distances[i], 2)} km", center["address"]])
 
-    for i, (center_name, distance) in enumerate(distances_to_centers[:5], start=1):
-        for center in medical_centers["intents"]:
-            if center["tag"] == center_name:
-                l.append([center_name, (str(round(distance, 2))+'km'), center["Address"]])
-    return l
+    return output
 
 
 if __name__ == "__main__":

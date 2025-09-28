@@ -1,716 +1,3374 @@
 {
     "intents": [
         {
-            "tag": "A C Hospital, Chennai",
-            "location": [
-                13.0972,
-                80.2328
-            ],
-            "Address": "No-8, 3Rd Main Road, United India Nagar, Ayanavaram, Chennai-600023, Tamil Nadu, India"
-        },
-        {
-            "tag": "A.N.N Hospital, Chennai",
-            "location": [
-                13.0356,
-                80.1659
-            ],
-            "Address": "81-85, Annai Therasa Street, Valasaravakkam, Chennai, Tamil Nadu, India, 600087"
-        },
-        {
-            "tag": "A.V. Hospitals, Chennai",
-            "location": [
-                13.1092,
-                80.2884
-            ],
-            "Address": "# 172, Solaiappan Street, Tondirepet (North Chennai) Near Maharani Theatre, Chennai, Tamil Nadu, India, 600021"
-        },
-        {
-            "tag": "Aakash Hospital, Chennai",
-            "location": [
-                13.1605,
-                80.3065
-            ],
-            "Address": "# 393/1, T.H. Road, Tiruvottiyur, Tiruvallur, Chennai, Tamil Nadu, India, 600019"
-        },
-        {
-            "tag": "Abhijay Hospital (P) Ltd., Chennai",
-            "location": [
-                13.1285,
-                80.2326
-            ],
-            "Address": "No.22/2, E.S.I Hospital Road, Peravallur, Chennai, Tamil Nadu, India, 600011"
-        },
-        {
-            "tag": "Aditya Hospital, Chennai",
-            "location": [
-                13.0792,
-                80.2376
-            ],
-            "Address": "No.7, Barnbay Road, Kilpauk, Chennai-600010, Tamil Nadu, India, 600010"
-        },
-        {
-            "tag": "Adyar P.M. Hospital, Chennai",
-            "location": [
-                13.0062,
-                80.2569
-            ],
-            "Address": "# 58, L.B. Road, Adyar, Chennai-600020, Tamil Nadu, India, 600020"
-        },
-        {
-            "tag": "Agash Nursing Home, Chennai",
-            "location": [
-                12.9547,
-                80.1433
-            ],
-            "Address": "#234, G.S.T. Road, Chromepet, Chennai, Tamil Nadu, India, 600044"
-        },
-        {
-            "tag": "Ak Hospital, Chennai",
-            "location": [
-                13.0732,
-                80.2183
-            ],
-            "Address": "360 Poonamallee High Road, Junction Of Ph Rd & Chennai, Tamil Nadu, India, 600029"
-        },
-        {
-            "tag": "Amma Hospital, Chennai",
-            "location": [
-                13.0679,
-                80.2425
-            ],
-            "Address": "# 1, Sowrastra Nagar7Th Street, Chennai, Tamil Nadu, India, 600094"
-        },
-        {
-            "tag": "Amrit Medicare Pvt Ltd, Chennai",
-            "location": [
-                13.0901,
-                80.2814
-            ],
-            "Address": "No.310, Mint Street, Near Sowcarpet, Chennai-600079, Tamil Nadu, India, 600079"
-        },
-        {
-            "tag": "Anand Hospital, Chennai",
-            "location": [
-                13.2024,
-                80.2786
-            ],
-            "Address": "201, Kamaraj Salai, Manali, Chennai, Tamil Nadu, India, 600068"
-        },
-        {
-            "tag": "Andhra Mahila Sabha, Chennai",
-            "location": [
-                13.0253,
-                80.2639
-            ],
-            "Address": "No.11 & 12, Dr.Durgabaideshmukh Road, R.A.Puram, Chennai, Tamil Nadu, India, 600028"
-        },
-        {
-            "tag": "Annamalai Hospital, Chennai",
-            "location": [
-                13.0395,
-                80.2195
-            ],
-            "Address": "# 27, Govindan Road, West Mambalam, Near Srinivasa Theatre, Chennai, Tamil Nadu, India, 600033"
-        },
-        {
-            "tag": "Apollo First Med Hospitals, Chennai",
-            "location": [
-                13.0795,
-                80.2408
-            ],
-            "Address": "No 154, Poonamallee High Road, Near Neyveli House, Kilpauk, Chennai - 6000, Tamil Nadu, India, 600010"
-        },
-        {
-            "tag": "Apollo Hospital (T.H.Road-Chennai), Chennai",
-            "location": [
-                13.1112,
-                80.2828
-            ],
-            "Address": "#645, T.H.Road, Tondiarpet, Chennai, Tamil Nadu, India, 600081"
-        },
-        {
-            "tag": "Apollo Hospitals (Greams Road-Chennai), Chennai",
-            "location": [
-                13.0608,
-                80.2615
-            ],
-            "Address": "#21, Greams Lane, Greams Road, Chennai-600006, Tamil Nadu, India, 600006"
-        },
-        {
-            "tag": "Apollo Speciality Hospital (Chennai), Chennai",
-            "location": [
-                13.0287,
-                80.2405
-            ],
-            "Address": "No 320 5Th Floor, Padma Complex, Anna Salai, Near Lr Swami Building, Nandanam, Chennai, Tamil Nadu, India, 600035"
-        },
-        {
-            "tag": "Appasamy Medicare Centre Pvt Ltd, Chennai",
-            "location": [
-                13.0803,
-                80.2132
-            ],
-            "Address": "23-25, Friends Avenue, Arumbakkam, Chennaiarumbakkam, Tamil Nadu, India, 600106"
-        },
-        {
-            "tag": "Arokya Hospital, Chennai",
-            "location": [
-                13.1052,
-                80.1601
-            ],
-            "Address": "#32, Pillayar Koil Street, Chennai, Tamil Nadu, India, 600078"
-        },
-        {
-            "tag": "Aswene Soundra Hospital & Research Centre, Chennai",
-            "location": [
-                13.0343,
-                80.2552
-            ],
-            "Address": "# 24, Kasturi Rangan Road, Teynampet, Chennai, Tamil Nadu, India, 600018"
-        },
-        {
-            "tag": "Athipathi Hospital And Research Center, Chennai",
-            "location": [
-                12.9781,
-                80.2076
-            ],
-            "Address": "Plot No 1, 100 Ft Rd, Tanni Nagar, Velachary, Chennai, Tamil Nadu, India, 600042"
-        },
-        {
-            "tag": "Avm Medical Ent Research Foundation, Chennai",
-            "location": [
-                13.0344,
-                80.2663
-            ],
-            "Address": "3, P.S.S. Road, Mylapore, Chennai, Tamil Nadu, India, 600004"
-        },
-        {
-            "tag": "Aysha Hospital, Chennai",
-            "location": [
-                13.0813,
-                80.2458
-            ],
-            "Address": "91A Millers Road, Kilpauk, Chennai, Tamil Nadu, India, 600010"
-        },
-        {
-            "tag": "B M Hospitals, Chennai",
-            "location": [
-                13.0893,
-                80.1969
-            ],
-            "Address": "36, 5Th Main Road, Thillai Ganga Nagar, Chennai, Tamil Nadu, India, 600061"
-        },
-        {
-            "tag": "B.B Hospital, Chennai",
-            "location": [
-                13.1349,
-                80.2174
-            ],
-            "Address": "No.52, Dayalu Nagar, Kolathur, Near Villirakham Railway Station, Chennai, Tamil Nadu, India, 600099"
-        },
-        {
-            "tag": "B.M. Orthopaedic Hospital, Chennai",
-            "location": [
-                13.1129,
-                80.1593
-            ],
-            "Address": "No.3/157, Mth Road, Ambattur, Chennai - 53, Tamil Nadu, India, 600053"
-        },
-        {
-            "tag": "B.S. Hospital, Chennai",
-            "location": [
-                12.9518,
-                80.1271
-            ],
-            "Address": "# 16, 3Rd Main Road, Chitlapakkam, Chennai, Tamil Nadu, India, 600064"
-        },
-        {
-            "tag": "B.S.S. Hospital, Chennai",
-            "location": [
-                13.0254,
-                80.2637
-            ],
-            "Address": "New No 200, Old # 179/1, R.K. Mutt Road, Mandaveli, Chennai, Tamil Nadu, India, 600028"
-        },
-        {
-            "tag": "Babus Maternity Hospital, Chennai",
-            "location": [
-                12.9737,
-                80.1616
-            ],
-            "Address": "# 7, Doraisamy Reddy Street, Tabaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Bagdi Nursing Home, Chennai",
-            "location": [
-                13.0844,
-                80.2164
-            ],
-            "Address": "3Rd Floor, #10, Solaiappan Streett.Nagar, Chennai, Tamil Nadu, India, 600017"
-        },
-        {
-            "tag": "Balagangadhara Varma Nursing Home & Research Center, Chennai",
-            "location": [
-                13.2173,
-                80.3184
-            ],
-            "Address": "No 17, First Main Road, Narayanapuram, Tamil Nadu, India, 601302"
-        },
-        {
-            "tag": "Bappu Clinic & Nursing Home, Chennai",
-            "location": [
-                12.9239,
-                80.1199
-            ],
-            "Address": "#46, Kalaingar Main Road, Srinivasa Nagar, Perungalatur, Chennai, Tamil Nadu, India, 600063"
-        },
-        {
-            "tag": "Bharath Hospital, Chennai",
-            "location": [
-                12.9754,
-                80.1875
-            ],
-            "Address": "# 72, I St Main Road, Nanganallur, Chennai, Tamil Nadu, India, 600061"
-        },
-        {
-            "tag": "Billroth Hospital Limited, Chennai",
-            "location": [
-                13.0722,
-                80.2236
-            ],
-            "Address": "#43, Lakshmi Takis Rd, Shenoy Nagar, Chennai, Tamil Nadu, India, 600030"
-        },
-        {
-            "tag": "Billroth Hospitals - Ra Puram, Chennai",
-            "location": [
-                13.0249,
-                80.2584
-            ],
-            "Address": "#52, 2Nd Main Road, Raja Annamalai Puram, Raja Annamalai Puram, Chennai, Tamil Nadu, India, 600028"
-        },
-        {
-            "tag": "Brs Hospital Pvt.Ltd, Chennai",
-            "location": [
-                13.0756,
-                80.2309
-            ],
-            "Address": "No.28. Cathedral Garden Road, Cathedral Gardens Road, Chennai, Tamil Nadu, India, 600034"
-        },
-        {
-            "tag": "C.S.I. Kalyani General Hospital, Chennai",
-            "location": [
-                13.0366,
-                80.2683
-            ],
-            "Address": "15, Dr. Radhakrishnan Salai, Mylapore, Chennai-600004, Next To City Centre, Tamil Nadu, India, 600004"
-        },
-        {
-            "tag": "C.S.I. Rainy Multi-Speciality Hospital, Chennai",
-            "location": [
-                13.0931,
-                80.2851
-            ],
-            "Address": "#45, G.A. Road, Chennai, Tamil Nadu, India, 600021"
-        },
-        {
-            "tag": "C.S.M Nursing Home, Chennai",
-            "location": [
-                13.0405,
-                80.2302
-            ],
-            "Address": "# 18, Rukmani Street, West Mambalam, Chennai, Tamil Nadu, India, 600033"
-        },
-        {
-            "tag": "Cauvery Trust Hospital, Chennai",
-            "location": [
-                13.1276,
-                80.2049
-            ],
-            "Address": "No.36, Ponnankinaru Street, Villivakkam, Chennai, Tamil Nadu, India, 600049"
-        },
-        {
-            "tag": "Chennai Krishna Hospital, Chennai",
-            "location": [
-                12.9585,
-                80.1429
-            ],
-            "Address": "No. 297, GST Road, Near MIT Flyover, Chromepet, Chennai, Tamilnadu, India, 600044"
-        },
-        {
-            "tag": "Chennai Meenakshi Multispeciality Hospital Ltd., Chennai",
-            "location": [
-                13.0354,
-                80.2355
-            ],
-            "Address": "# 148, Luz Church Road, Malapore, Chennai, Tamil Nadu, India, 600004"
-        },
-        {
-            "tag": "Chettinad Super Speciality Hospital (Cssh)-(A Unit Of Rajah Muthiah Charitable And Educational Trust), Chennai",
-            "location": [
-                12.8091,
-                80.2167
-            ],
-            "Address": "I.T. Highway, Kelambakkam, Tamil Nadu, India, 603103"
-        },
-        {
-            "tag": "Chitras Ent Laser Surgery Super Speciality Hospital, Chennai",
-            "location": [
-                13.0672,
-                80.2465
-            ],
-            "Address": "30C, Cathedral Garden Lane, Nungambakkam, Chennai, Tamil Nadu, India, 600034"
-        },
-        {
-            "tag": "Christudas Orthopaedic Speciality Hospital, Chennai",
-            "location": [
-                13.1057,
-                80.1921
-            ],
-            "Address": "#9, Duraiswamy Ngr. I.A.F. Road, Chennai, Tamil Nadu, India, 600059"
-        },
-        {
-            "tag": "Darshan Surgical Centre Llp, Chennai",
-            "location": [
-                13.1384,
-                80.1907
-            ],
-            "Address": "Block T-80, New No-24 5Th Main Road, Chennai, Tamil Nadu, India, 600040"
-        },
-        {
-            "tag": "Deepam Hospital, Chennai",
-            "location": [
-                12.9323,
-                80.1123
-            ],
-            "Address": "#327, Muthurangam Road, Tambaram (West), Kanchipuram, West Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Deepam Hospital Ltd, Chennai",
-            "location": [
-                12.9874,
-                80.2605
-            ],
-            "Address": "30, Ayyasamy Street, Chennai, Tamil Nadu, India, 600044"
-        },
-        {
-            "tag": "Deepam Hospital Ltd, Chennai",
-            "location": [
-                12.9897,
-                80.2533
-            ],
-            "Address": "107-A, GST Road, Chennai, Tamil Nadu, India, 600044"
-        },
-        {
-            "tag": "Doctor Rex'S Hospital, Chennai",
-            "location": [
-                13.0706,
-                80.2407
-            ],
-            "Address": "# 37, Millers Road, Kilpauk, Chennai, Tamil Nadu, India, 600010"
-        },
-        {
-            "tag": "Dr Kamakshi National Hospital, Chennai",
-            "location": [
-                13.1004,
-                80.2878
-            ],
-            "Address": "No 12 Jaffer Serang Street, Second Line Beach, Chennai, Tamil Nadu, India, 600001"
-        },
-        {
-            "tag": "Dr. Arvind Vision Care, Chennai",
-            "location": [
-                13.0919,
-                80.1647
-            ],
-            "Address": "#61, Reddy Palayam Road, Mogappair West, Chennai, Tamil Nadu, India, 600037"
-        },
-        {
-            "tag": "Dr. Grace George Hospital, Chennai",
-            "location": [
-                13.1323,
-                80.0468
-            ],
-            "Address": "# 34, Udayavar Koil Street, Thirumizhisai, Poonamallee, Tamil Nadu, India, 600029"
-        },
-        {
-            "tag": "Dr. Jacquline Divyananda (Divya Hospital), Chennai",
-            "location": [
-                12.9782,
-                80.2037
-            ],
-            "Address": "# 20, Medavakkam Main Road, Madipakkam, Chennai, Tamil Nadu, India, 600091"
-        },
-        {
-            "tag": "Dr. Mehta'S Multispeciality Hospital Pvt Ltd., Chennai",
-            "location": [
-                13.0661,
-                80.2395
-            ],
-            "Address": "2 (E), Mc. Nicholas Road, Chennai, Opposite To Chetpet Police Station, Tamil Nadu, India, 600031"
-        },
-        {
-            "tag": "Dr. Rela Institute & Medical Centre, Chennai",
-            "location": [
-                13.1107,
-                80.1453
-            ],
-            "Address": "No. 7, CLC Works Road, Chromepet, Chennai, Tamil Nadu, India, 600044"
-        },
-        {
-            "tag": "Dr. U Mohan Rau Memorial Hospital, Chennai",
-            "location": [
-                13.0282,
-                80.2644
-            ],
-            "Address": "#962, Poonamallee High Road, Near Motcham Theatre, Chennai, Tamil Nadu, India, 600084"
-        },
-        {
-            "tag": "Esic Hospital, Chennai",
-            "location": [
-                13.1066,
-                80.1839
-            ],
-            "Address": "# 32, Marshalls Road, Egmore, Chennai, Tamil Nadu, India, 600008"
-        },
-        {
-            "tag": "Eswari Nursing Home, Chennai",
-            "location": [
-                13.0795,
-                80.2045
-            ],
-            "Address": "# 1, 2Nd Main Road, Kasthurba Nagar, Adyar, Chennai, Tamil Nadu, India, 600020"
-        },
-        {
-            "tag": "Ethiraj Clinic & Nursing Home, Chennai",
-            "location": [
-                13.0726,
-                80.2534
-            ],
-            "Address": "40/1, E V K Sampath Road, Vepery, Chennai, Tamil Nadu, India, 600007"
-        },
-        {
-            "tag": "Frontier Lifeline Hospital, Chennai",
-            "location": [
-                13.0704,
-                80.1853
-            ],
-            "Address": "# 29, R-30C, Ambattur Industrial Estate Road, Chennai, Tamil Nadu, India, 600101"
-        },
-        {
-            "tag": "G.g. Hospital, Chennai",
-            "location": [
-                13.0921,
-                80.2869
-            ],
-            "Address": "# 6, E Block, 4Th Avenue, Anna Nagar East, Chennai, Tamil Nadu, India, 600102"
-        },
-        {
-            "tag": "G.g. Hospital (2), Chennai",
-            "location": [
-                13.0971,
-                80.2053
-            ],
-            "Address": "# 149, Grand Line, T.H. Road, Chennai, Tamil Nadu, India, 600118"
-        },
-        {
-            "tag": "G.j. Hospital & Trauma Centre Pvt Ltd., Chennai",
-            "location": [
-                12.9939,
-                80.2419
-            ],
-            "Address": "24-A, Halls Road, Egmore, Chennai, Tamil Nadu, India, 600008"
-        },
-        {
-            "tag": "G.S. Hospital, Chennai",
-            "location": [
-                13.1008,
-                80.2575
-            ],
-            "Address": "# 85, Greams Road, Chennai, Tamil Nadu, India, 600006"
-        },
-        {
-            "tag": "Gajanan Hospitals Pvt Ltd, Chennai",
-            "location": [
-                13.0871,
-                80.2162
-            ],
-            "Address": "#100, Poonamallee High Road, Chennai, Tamil Nadu, India, 600084"
-        },
-        {
-            "tag": "Ganga Nursing Home, Chennai",
-            "location": [
-                13.0527,
-                80.2506
-            ],
-            "Address": "#12, Khadar Nawaz Khan Road, Nungambakkam, Chennai, Tamil Nadu, India, 600034"
-        },
-        {
-            "tag": "Girishwari Hospital Pvt Ltd, Chennai",
-            "location": [
-                12.9822,
-                80.2528
-            ],
-            "Address": "#27, Gowtham Street, West Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Gkm Hospitals, Chennai",
-            "location": [
-                13.0644,
-                80.1962
-            ],
-            "Address": "# 120, 1St Main Road, Chennai, Tamil Nadu, India, 600099"
-        },
-        {
-            "tag": "Global Health City, Chennai",
-            "location": [
-                12.8234,
-                80.2427
-            ],
-            "Address": "# 439, Cheran Nagar, Perumbakkam, Chennai, Tamil Nadu, India, 600100"
-        },
-        {
-            "tag": "Government Hospital, Chennai",
-            "location": [
-                13.1159,
-                80.2868
-            ],
-            "Address": "No. 69, 1St Avenue, Shanti Colony, Anna Nagar, Chennai, Tamil Nadu, India, 600040"
-        },
-        {
-            "tag": "Grace Kennett Foundation Hospital, Chennai",
-            "location": [
-                13.1169,
-                80.1276
-            ],
-            "Address": "F1 & F2, Near Annai Arul Hospital, Kelambakkam, Chennai, Tamil Nadu, India, 603103"
-        },
-        {
-            "tag": "Govt. Peripheral Hospital, Chennai",
-            "location": [
-                13.0763,
-                80.2659
-            ],
-            "Address": "M.K.N. Road, Guindy, Chennai, Tamil Nadu, India, 600032"
-        },
-        {
-            "tag": "Gt Hospital (Sethu Foundation), Chennai",
-            "location": [
-                13.0629,
-                80.2437
-            ],
-            "Address": "# 14, Rajasekaran Street, Mylapore, Chennai, Tamil Nadu, India, 600004"
-        },
-        {
-            "tag": "Gurudeva Hospitals Pvt Ltd, Chennai",
-            "location": [
-                13.1493,
-                80.2718
-            ],
-            "Address": "# 33, 9Th Street, Lakshmipuram, Chennai, Tamil Nadu, India, 600099"
-        },
-        {
-            "tag": "H M Hospitals, Chennai",
-            "location": [
-                13.0736,
-                80.2412
-            ],
-            "Address": "# 48/1, Mannar Reddy Street, Chennai, Tamil Nadu, India, 600010"
-        },
-        {
-            "tag": "H.K. Hospital Pvt Ltd, Chennai",
-            "location": [
-                13.0541,
-                80.2733
-            ],
-            "Address": "#49, Kutchery Road, Mylapore, Chennai, Tamil Nadu, India, 600004"
-        },
-        {
-            "tag": "Hande Hospital, Chennai",
-            "location": [
-                13.0364,
-                80.2431
-            ],
-            "Address": "# 45, Lakshmi Talkies Road, Shenoy Nagar, Chennai, Tamil Nadu, India, 600030"
-        },
-        {
-            "tag": "Happy Times Nursing Home, Chennai",
-            "location": [
-                13.1026,
-                80.2517
-            ],
-            "Address": "# 92, Block B, Mmda Colony, Arumbakkam, Chennai, Tamil Nadu, India, 600106"
-        },
-        {
-            "tag": "Harvey Heart Hospitals Limited, Chennai",
-            "location": [
-                13.0723,
-                80.2152
-            ],
-            "Address": "# 24, Vth Main Road, Gandhi Nagar, Adyar, Chennai, Tamil Nadu, India, 600020"
-        },
-        {
-            "tag": "Hemoprime Hospitals, Chennai",
-            "location": [
-                13.0799,
-                80.2487
-            ],
-            "Address": "# 28, Perambur High Road, Chennai, Tamil Nadu, India, 600012"
-        },
-        {
-            "tag": "Hindu Mission Hospital, Chennai",
-            "location": [
-                12.9632,
-                80.2098
-            ],
-            "Address": "# 103, GST Road, Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Hindu Mission Hospital, Chennai",
-            "location": [
-                12.9254,
-                80.1384
-            ],
-            "Address": "# 103, GST Road, Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Hindu Mission Hospital, Chennai",
-            "location": [
-                12.9278,
-                80.1238
-            ],
-            "Address": "# 103, GST Road, Tambaram, Chennai, Tamil Nadu, India, 600045"
-        },
-        {
-            "tag": "Panimalar Medical College Hospital & Research Institute",
-            "location": [
-                13.0473,
-                80.0841
-            ],
-            "Address": "Varadharajapuram, Chennai Outer Ring Rd, Poonamallee, Chennai, Pidarithangal, Tamil Nadu 600123"
-        },
-        {
-            "tag": "Cure Well Hospital, Nazarathpettai, Tamil Nadu",
-            "location": [
-                13.0448,
-                80.0786
-            ],
-            "Address": "23VH+W6C, Bajanaikovil St, Nazarathpettai, Tamil Nadu 600069"
-        },
-        {
-            "tag": "S.S. Hospital, Nazarathpettai, Tamil Nadu",
-            "location": [
-                13.0476,
-                80.0807
-            ],
-            "Address": "23XJ+28V, Nazarathpettai, Tamil Nadu 600123"
-        },
-        {
-            "tag": "Aachi Hospital",
-            "location": [
-                13.0992,
-                80.1847
-            ],
-            "Address": "No:77, Thirumazhisai near: cake pie, 45, Chennai Tiruvallur High Rd, Chennai, Tamil Nadu 600124"
+            "name": "Miami Valley Hospital",
+            "address": "One Wyoming Street, Dayton, OH, 45409",
+            "location": {
+                "lat": 39.744893204,
+                "lon": -84.185908608
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.744893204,-84.185908608",
+            "phone": "(937) 208-3012"
+        },
+        {
+            "name": "Surgical Hospital At Southwoods",
+            "address": "7630 Southern Blvd, Youngstown, OH, 44512",
+            "location": {
+                "lat": 41.015475655,
+                "lon": -80.655617677
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.015475655,-80.655617677",
+            "phone": "(330) 758-1954"
+        },
+        {
+            "name": "Fort Hamilton Hughes Memorial Hospital",
+            "address": "630 Eaton Avenue, Hamilton, OH, 45013",
+            "location": {
+                "lat": 39.415548233,
+                "lon": -84.572707011
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.415548233,-84.572707011",
+            "phone": "(513) 867-2000"
+        },
+        {
+            "name": "University Hospitals Of Cleveland",
+            "address": "11100 Euclid Avenue, Cleveland, OH, 44106",
+            "location": {
+                "lat": 41.506142051,
+                "lon": -81.605095434
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.506142051,-81.605095434",
+            "phone": "(216) 844-1000"
+        },
+        {
+            "name": "Mercy Regional Medical Center",
+            "address": "3700 Kolbe Road, Lorain, OH, 44053",
+            "location": {
+                "lat": 41.436895735,
+                "lon": -82.237334849
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.436895735,-82.237334849",
+            "phone": "(440) 960-3295"
+        },
+        {
+            "name": "Bay Park Community Hospital",
+            "address": "2801 Bay Park Drive, Oregon, OH, 43616",
+            "location": {
+                "lat": 41.621201992,
+                "lon": -83.480491056
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.621201992,-83.480491056",
+            "phone": "(419) 690-7700"
+        },
+        {
+            "name": "Knox Community Hospital",
+            "address": "1330 Coshocton Road, Mount Vernon, OH, 43050",
+            "location": {
+                "lat": 40.399716167,
+                "lon": -82.44853752
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.399716167,-82.44853752",
+            "phone": "(740) 393-9000"
+        },
+        {
+            "name": "Fostoria Community Hospital",
+            "address": "501 Van Buren Street, Fostoria, OH, 44830",
+            "location": {
+                "lat": 41.162995476,
+                "lon": -83.424228906
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.162995476,-83.424228906",
+            "phone": "(419) 435-7734"
+        },
+        {
+            "name": "Grant Medical Center",
+            "address": "111 South Grant Avenue, Columbus, OH, 43215",
+            "location": {
+                "lat": 39.960973275,
+                "lon": -82.991001983
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.960973275,-82.991001983",
+            "phone": "(614) 566-9978"
+        },
+        {
+            "name": "Mccullough-Hyde Memorial Hospital",
+            "address": "110 North Poplar Street, Oxford, OH, 45056",
+            "location": {
+                "lat": 39.512596159,
+                "lon": -84.74153696
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.512596159,-84.74153696",
+            "phone": "(513) 523-2111"
+        },
+        {
+            "name": "Aultman Hospital",
+            "address": "2600 Sixth Street Sw, Canton, OH, 44710",
+            "location": {
+                "lat": 40.797319151,
+                "lon": -81.403062215
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.797319151,-81.403062215",
+            "phone": "(330) 452-9911"
+        },
+        {
+            "name": "Summa Western Reserve Hospital",
+            "address": "1900 23Rd Street, Cuyahoga Falls, OH, 44223",
+            "location": {
+                "lat": 41.132990966,
+                "lon": -81.511095847
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.132990966,-81.511095847",
+            "phone": "(330) 971-7000"
+        },
+        {
+            "name": "Akron General Medical Center",
+            "address": "400 Wabash Avenue, Akron, OH, 44307",
+            "location": {
+                "lat": 41.078123172,
+                "lon": -81.531396772
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.078123172,-81.531396772",
+            "phone": "(330) 344-3333"
+        },
+        {
+            "name": "Defiance Regional Medical Center",
+            "address": "1200 Ralston Avenue, Defiance, OH, 43512",
+            "location": {
+                "lat": 41.298703888,
+                "lon": -84.376562712
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.298703888,-84.376562712",
+            "phone": "(419) 783-6955"
+        },
+        {
+            "name": "Mercy Memorial Hospital",
+            "address": "904 Scioto Street, Urbana, OH, 43078",
+            "location": {
+                "lat": 40.108521956,
+                "lon": -83.72992008
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.108521956,-83.72992008",
+            "phone": "(937) 653-5231"
+        },
+        {
+            "name": "Firelands Regional Medical Center",
+            "address": "1111 Hayes Avenue, Sandusky, OH, 44870",
+            "location": {
+                "lat": 41.445892256,
+                "lon": -82.710196917
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.445892256,-82.710196917",
+            "phone": "(419) 557-7400"
+        },
+        {
+            "name": "O'Bleness Memorial Hospital",
+            "address": "55 Hospital Drive, Athens, OH, 45701",
+            "location": {
+                "lat": 39.327952657,
+                "lon": -82.115433978
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.327952657,-82.115433978",
+            "phone": "(740) 593-5551"
+        },
+        {
+            "name": "MedCentral - Mansfield Hospital",
+            "address": "335 Glessner Avenue, Mansfield, OH, 44903",
+            "location": {
+                "lat": 40.752924353,
+                "lon": -82.529472766
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.752924353,-82.529472766",
+            "phone": "(419) 526-8000"
+        },
+        {
+            "name": "Parma Community General Hospital",
+            "address": "7007 Powers Boulevard, Parma, OH, 44129",
+            "location": {
+                "lat": 41.382119836,
+                "lon": -81.731394677
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.382119836,-81.731394677",
+            "phone": "(440) 743-3000"
+        },
+        {
+            "name": "Diley Ridge Medical Center",
+            "address": "7911 Diley Road, Canal Winchester, OH, 43110",
+            "location": {
+                "lat": 39.850669895,
+                "lon": -82.784080955
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.850669895,-82.784080955",
+            "phone": "(614) 838-7910"
+        },
+        {
+            "name": "Bucyrus Community Hospital",
+            "address": "629 North Sandusky Avenue, Bucyrus, OH, 44820",
+            "location": {
+                "lat": 40.815339897,
+                "lon": -82.976632127
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.815339897,-82.976632127",
+            "phone": "(419) 562-4677"
+        },
+        {
+            "name": "Grady Memorial Hospital",
+            "address": "561 West Central Avenue, Delaware, OH, 43015",
+            "location": {
+                "lat": 40.305514024,
+                "lon": -83.089252856
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.305514024,-83.089252856",
+            "phone": "(740) 368-5145"
+        },
+        {
+            "name": "Uhhs Memorial Hospital Of Geneva",
+            "address": "870 West Main Street, Geneva, OH, 44041",
+            "location": {
+                "lat": 41.799473821,
+                "lon": -80.962191349
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.799473821,-80.962191349",
+            "phone": "(440) 466-1141"
+        },
+        {
+            "name": "St Elizabeth Health Center",
+            "address": "1044 Belmont Avenue, Youngstown, OH, 44501",
+            "location": {
+                "lat": 41.114014996,
+                "lon": -80.657314547
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.114014996,-80.657314547",
+            "phone": "(330) 746-7211"
+        },
+        {
+            "name": "Lodi Community Hospital",
+            "address": "225 Elyria Street, Lodi, OH, 44254",
+            "location": {
+                "lat": 41.035862318,
+                "lon": -82.014169286
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.035862318,-82.014169286",
+            "phone": "(330) 948-1222"
+        },
+        {
+            "name": "Wooster Community Hospital",
+            "address": "1761 Beall Avenue, Wooster, OH, 44691",
+            "location": {
+                "lat": 40.820887467,
+                "lon": -81.932161465
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.820887467,-81.932161465",
+            "phone": "(330) 263-8100"
+        },
+        {
+            "name": "Summa Wadsworth-Rittman Hospital",
+            "address": "195 Wadsworth Road, Wadsworth, OH, 44281",
+            "location": {
+                "lat": 41.028286812,
+                "lon": -81.75161518
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.028286812,-81.75161518",
+            "phone": "(330) 334-1504"
+        },
+        {
+            "name": "Clinton Memorial Hospital",
+            "address": "610 West Main Street, Wilmington, OH, 45177",
+            "location": {
+                "lat": 39.443851317,
+                "lon": -83.840020957
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.443851317,-83.840020957",
+            "phone": "(937) 382-6611"
+        },
+        {
+            "name": "Riverside Methodist Hospital",
+            "address": "3535 Olentangy River Rd, Columbus, OH, 43214",
+            "location": {
+                "lat": 40.030567989,
+                "lon": -83.034017086
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.030567989,-83.034017086",
+            "phone": "(614) 566-5000"
+        },
+        {
+            "name": "Dublin Methodist Hospital",
+            "address": "7500 Hospital Avenue, Dublin, OH, 43016",
+            "location": {
+                "lat": 40.101219536,
+                "lon": -83.165741969
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.101219536,-83.165741969",
+            "phone": "(614) 544-8000"
+        },
+        {
+            "name": "Alliance Community Hospital",
+            "address": "200 East State Street, Alliance, OH, 44601",
+            "location": {
+                "lat": 40.902582625,
+                "lon": -81.102712915
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.902582625,-81.102712915",
+            "phone": "(330) 596-7527"
+        },
+        {
+            "name": "Adena Regional Medical Center",
+            "address": "272 Hospital Road, Chillicothe, OH, 45601",
+            "location": {
+                "lat": 39.396497774,
+                "lon": -82.967616109
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.396497774,-82.967616109",
+            "phone": "(740) 779-7358"
+        },
+        {
+            "name": "Medina Hospital",
+            "address": "1000 East Washington Street, Medina, OH, 44256",
+            "location": {
+                "lat": 41.138450875,
+                "lon": -81.838292925
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.138450875,-81.838292925",
+            "phone": "(330) 725-1000"
+        },
+        {
+            "name": "Ohio Valley Surgical Hospital",
+            "address": "100 West Main Street, Springfield, OH, 45502",
+            "location": {
+                "lat": 39.925000162,
+                "lon": -83.813022581
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.925000162,-83.813022581",
+            "phone": "(937) 521-3900"
+        },
+        {
+            "name": "Hillcrest Hospital",
+            "address": "6780 Mayfield Road, Mayfield Heights, OH, 44124",
+            "location": {
+                "lat": 41.518299927,
+                "lon": -81.436247882
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.518299927,-81.436247882",
+            "phone": "(440) 312-4500"
+        },
+        {
+            "name": "St Luke'S Hospital",
+            "address": "5901 Monclova Road, Maumee, OH, 43537",
+            "location": {
+                "lat": 41.557311487,
+                "lon": -83.682914446
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.557311487,-83.682914446",
+            "phone": "(419) 893-5900"
+        },
+        {
+            "name": "East Liverpool City Hospital",
+            "address": "425 West 5Th Street, East Liverpool, OH, 43920",
+            "location": {
+                "lat": 40.621855515,
+                "lon": -80.585970467
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.621855515,-80.585970467",
+            "phone": "(330) 385-7200"
+        },
+        {
+            "name": "Pike Community Hospital",
+            "address": "100 Dawn Lane, Waverly, OH, 45690",
+            "location": {
+                "lat": 39.116334582,
+                "lon": -83.004186504
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.116334582,-83.004186504",
+            "phone": "(740) 947-2186"
+        },
+        {
+            "name": "Belmont Community Hospital",
+            "address": "4697 Harrison Street, Bellaire, OH, 43906",
+            "location": {
+                "lat": 40.030140362,
+                "lon": -80.740970263
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.030140362,-80.740970263",
+            "phone": "(740) 671-1200"
+        },
+        {
+            "name": "Mercy St Charles Hospital",
+            "address": "2600 Navarre Avenue, Oregon, OH, 43616",
+            "location": {
+                "lat": 41.635123839,
+                "lon": -83.485225207
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.635123839,-83.485225207",
+            "phone": "(419) 696-7200"
+        },
+        {
+            "name": "Good Samaritan Hospital",
+            "address": "375 Dixmyth Avenue, Cincinnati, OH, 45220",
+            "location": {
+                "lat": 39.139933339,
+                "lon": -84.522284405
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.139933339,-84.522284405",
+            "phone": "(513) 862-2601"
+        },
+        {
+            "name": "Barnesville Hospital Association, Inc",
+            "address": "639 West Main Street, Barnesville, OH, 43713",
+            "location": {
+                "lat": 39.992994953,
+                "lon": -81.188990166
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.992994953,-81.188990166",
+            "phone": "(740) 425-5101"
+        },
+        {
+            "name": "Aultman Orrville Hospital",
+            "address": "832 South Main Street, Orrville, OH, 44667",
+            "location": {
+                "lat": 40.832182348,
+                "lon": -81.763682683
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.832182348,-81.763682683",
+            "phone": "(330) 682-3010"
+        },
+        {
+            "name": "Madison County Hospital Inc",
+            "address": "210 North Main Street, London, OH, 43140",
+            "location": {
+                "lat": 39.892554598,
+                "lon": -83.454255459
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.892554598,-83.454255459",
+            "phone": "(740) 845-7010"
+        },
+        {
+            "name": "Fulton County Health Center",
+            "address": "725 South Shoop Avenue, Wauseon, OH, 43567",
+            "location": {
+                "lat": 41.53902085,
+                "lon": -84.132948838
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.53902085,-84.132948838",
+            "phone": "(419) 335-2015"
+        },
+        {
+            "name": "Hocking Valley Community Hospital",
+            "address": "601 State Route 664N, Logan, OH, 43138",
+            "location": {
+                "lat": 39.54795259,
+                "lon": -82.429611135
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.54795259,-82.429611135",
+            "phone": "(740) 380-8000"
+        },
+        {
+            "name": "Mercy Willard Hospital",
+            "address": "1100 Neal Zick Road, Willard, OH, 44890",
+            "location": {
+                "lat": 41.048239949,
+                "lon": -82.724364524
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.048239949,-82.724364524",
+            "phone": "(419) 964-5000"
+        },
+        {
+            "name": "Holzer Medical Center Jackson",
+            "address": "500 Burlington Road, Jackson, OH, 45640",
+            "location": {
+                "lat": 39.03230666,
+                "lon": -82.640760247
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.03230666,-82.640760247",
+            "phone": "(740) 395-8500"
+        },
+        {
+            "name": "Marietta Memorial Hospital",
+            "address": "401 Matthew Street, Marietta, OH, 45750",
+            "location": {
+                "lat": 39.43170107,
+                "lon": -81.464163927
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.43170107,-81.464163927",
+            "phone": "(740) 374-1400"
+        },
+        {
+            "name": "Cleveland Clinic",
+            "address": "9500 Euclid Avenue, Cleveland, OH, 44195",
+            "location": {
+                "lat": 41.502750961,
+                "lon": -81.620792669
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.502750961,-81.620792669",
+            "phone": "(216) 444-2200"
+        },
+        {
+            "name": "Three Gables Surgery Center",
+            "address": "5897 County Road 107, Proctorville, OH, 45669",
+            "location": {
+                "lat": 38.441788476,
+                "lon": -82.392982106
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.441788476,-82.392982106",
+            "phone": "(740) 886-9911"
+        },
+        {
+            "name": "Uhhs Bedford Medical Center",
+            "address": "44 Blaine Avenue, Bedford, OH, 44146",
+            "location": {
+                "lat": 41.395143866,
+                "lon": -81.534072205
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.395143866,-81.534072205",
+            "phone": "(440) 735-3628"
+        },
+        {
+            "name": "Specialty Hospital of Lorain",
+            "address": "254 Cleveland Avenue, Amherst, OH, 44001",
+            "location": {
+                "lat": 41.39919663,
+                "lon": -82.223587351
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.39919663,-82.223587351",
+            "phone": "(440) 988-6000"
+        },
+        {
+            "name": "Memorial Hospital Of Union County",
+            "address": "500 London Avenue, Marysville, OH, 43040",
+            "location": {
+                "lat": 40.230082541,
+                "lon": -83.367648323
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.230082541,-83.367648323",
+            "phone": "(937) 578-2289"
+        },
+        {
+            "name": "St Joseph Health Center",
+            "address": "667 Eastland Ave Se, Warren, OH, 44481",
+            "location": {
+                "lat": 41.230911745,
+                "lon": -80.777155281
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.230911745,-80.777155281",
+            "phone": "(330) 841-4000"
+        },
+        {
+            "name": "Mercy St Vincent Medical Center",
+            "address": "2213 Cherry Street, Toledo, OH, 43608",
+            "location": {
+                "lat": 41.668669951,
+                "lon": -83.542789756
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.668669951,-83.542789756",
+            "phone": "(419) 251-3232"
+        },
+        {
+            "name": "Euclid Hospital",
+            "address": "18901 Lake Shore Boulevard, Euclid, OH, 44119",
+            "location": {
+                "lat": 41.59889405,
+                "lon": -81.548777519
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.59889405,-81.548777519",
+            "phone": "(216) 531-9000"
+        },
+        {
+            "name": "Affinity Medical Center",
+            "address": "875 Eighth Street Ne, Massillon, OH, 44646",
+            "location": {
+                "lat": 40.806380245,
+                "lon": -81.517451361
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.806380245,-81.517451361",
+            "phone": "(330) 837-6863"
+        },
+        {
+            "name": "Summa Health System Barberton Hospital",
+            "address": "155 5Th Street N E, Barberton, OH, 44203",
+            "location": {
+                "lat": 41.015071331,
+                "lon": -81.588997823
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.015071331,-81.588997823",
+            "phone": "(330) 615-3000"
+        },
+        {
+            "name": "Grand Lake Health System",
+            "address": "200 Saint Clair Street, Saint Marys, OH, 45885",
+            "location": {
+                "lat": 40.544350846,
+                "lon": -84.370713567
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.544350846,-84.370713567",
+            "phone": "(419) 394-3335"
+        },
+        {
+            "name": "Louis Stokes Cleveland Veterans Affairs Medical Center",
+            "address": "10701 East Blvd, Cleveland, OH, 44106",
+            "location": {
+                "lat": 41.512428336,
+                "lon": -81.614717194
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.512428336,-81.614717194",
+            "phone": "(216) 791-3800"
+        },
+        {
+            "name": "Wood County Hospital",
+            "address": "950 West Wooster Street, Bowling Green, OH, 43402",
+            "location": {
+                "lat": 41.375719027,
+                "lon": -83.665857133
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.375719027,-83.665857133",
+            "phone": "(419) 354-8900"
+        },
+        {
+            "name": "Genesis Healthcare System",
+            "address": "2951 Maple Avenue, Zanesville, OH, 43701",
+            "location": {
+                "lat": 39.974808289,
+                "lon": -82.016500661
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.974808289,-82.016500661",
+            "phone": "(740) 454-5000"
+        },
+        {
+            "name": "Community Memorial Hospital",
+            "address": "208 N Columbus St, Hicksville, OH, 43526",
+            "location": {
+                "lat": 41.301786025,
+                "lon": -84.755896401
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.301786025,-84.755896401",
+            "phone": "(419) 542-6692"
+        },
+        {
+            "name": "Lakewood Hospital",
+            "address": "14519 Detroit Avenue, Lakewood, OH, 44107",
+            "location": {
+                "lat": 41.484190705,
+                "lon": -81.796605578
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.484190705,-81.796605578",
+            "phone": "(216) 521-4200"
+        },
+        {
+            "name": "Southeastern Ohio Regional Medical Center",
+            "address": "1341 North Clark Street, Cambridge, OH, 43725",
+            "location": {
+                "lat": 40.041473187,
+                "lon": -81.577392336
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.041473187,-81.577392336",
+            "phone": "(740) 439-8111"
+        },
+        {
+            "name": "Christ Hospital",
+            "address": "2139 Auburn Avenue, Cincinnati, OH, 45219",
+            "location": {
+                "lat": 39.120930591,
+                "lon": -84.510906969
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.120930591,-84.510906969",
+            "phone": "(513) 585-2771"
+        },
+        {
+            "name": "Mercy Hospital Fairfield",
+            "address": "3000 Mack Road, Fairfield, OH, 45014",
+            "location": {
+                "lat": 39.312699164,
+                "lon": -84.517795738
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.312699164,-84.517795738",
+            "phone": "(513) 870-7197"
+        },
+        {
+            "name": "Atrium Medical Center",
+            "address": "One Medical Center Drive, Franklin, OH, 45005",
+            "location": {
+                "lat": 39.498340495,
+                "lon": -84.314251394
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.498340495,-84.314251394",
+            "phone": "(513) 420-5102"
+        },
+        {
+            "name": "Mercy Franciscan Hospital - Mt Airy",
+            "address": "2446 Kipling Avenue, Cincinnati, OH, 45239",
+            "location": {
+                "lat": 39.204740769,
+                "lon": -84.570670799
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.204740769,-84.570670799",
+            "phone": "(513) 853-5000"
+        },
+        {
+            "name": "Evendale Medical Center",
+            "address": "3155 Glendale-Milford Road, Cincinnati, OH, 45241",
+            "location": {
+                "lat": 39.251489134,
+                "lon": -84.420412357
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.251489134,-84.420412357",
+            "phone": "(513) 454-2222"
+        },
+        {
+            "name": "Physician'S Choice Hospital - Fremont, Llc",
+            "address": "2390 Enterprise Drive, Fremont, OH, 43420",
+            "location": {
+                "lat": 41.379740555,
+                "lon": -83.115880656
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.379740555,-83.115880656",
+            "phone": "(419) 461-1057"
+        },
+        {
+            "name": "St Rita'S Medical Center",
+            "address": "730 West Market Street, Lima, OH, 45801",
+            "location": {
+                "lat": 40.740932887,
+                "lon": -84.118445671
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.740932887,-84.118445671",
+            "phone": "(419) 227-3361"
+        },
+        {
+            "name": "Fairview Hospital",
+            "address": "18101 Lorain Avenue, Cleveland, OH, 44111",
+            "location": {
+                "lat": 41.450542077,
+                "lon": -81.823425279
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.450542077,-81.823425279",
+            "phone": "(216) 476-7000"
+        },
+        {
+            "name": "H B Magruder Memorial Hospital",
+            "address": "615 Fulton St, Port Clinton, OH, 43452",
+            "location": {
+                "lat": 41.50587467,
+                "lon": -82.933003045
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.50587467,-82.933003045",
+            "phone": "(419) 734-3131"
+        },
+        {
+            "name": "Upper Valley Medical Center",
+            "address": "3130 North County Road 25A, Troy, OH, 45373",
+            "location": {
+                "lat": 40.085874431,
+                "lon": -84.229927999
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.085874431,-84.229927999",
+            "phone": "(937) 440-7853"
+        },
+        {
+            "name": "Selby General Hospital",
+            "address": "1106 Colegate Drive, Marietta, OH, 45750",
+            "location": {
+                "lat": 39.440090955,
+                "lon": -81.444011728
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.440090955,-81.444011728",
+            "phone": "(740) 568-2000"
+        },
+        {
+            "name": "Galion Community Hospital",
+            "address": "269 Portland Way South, Galion, OH, 44833",
+            "location": {
+                "lat": 40.730903767,
+                "lon": -82.802257211
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.730903767,-82.802257211",
+            "phone": "(419) 468-4841"
+        },
+        {
+            "name": "Medcentral Health System Shelby Hospital",
+            "address": "199 West Main Street, Shelby, OH, 44875",
+            "location": {
+                "lat": 40.882406732,
+                "lon": -82.674175077
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.882406732,-82.674175077",
+            "phone": "(419) 342-5015"
+        },
+        {
+            "name": "Trumbull Memorial Hospital",
+            "address": "1350 East Market Street, Warren, OH, 44482",
+            "location": {
+                "lat": 41.235855923,
+                "lon": -80.798778258
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.235855923,-80.798778258",
+            "phone": "(330) 841-9011"
+        },
+        {
+            "name": "Deaconess Hospital",
+            "address": "311 Straight Street, Cincinnati, OH, 45219",
+            "location": {
+                "lat": 39.129531129,
+                "lon": -84.522295633
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.129531129,-84.522295633",
+            "phone": "(513) 559-2100"
+        },
+        {
+            "name": "Cincinnati Va Medical Center",
+            "address": "3200 Vine Street, Cincinnati, OH, 45220",
+            "location": {
+                "lat": 39.139413643,
+                "lon": -84.508194552
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.139413643,-84.508194552",
+            "phone": "(513) 861-3100"
+        },
+        {
+            "name": "Henry County Hospital, Inc",
+            "address": "1600 East Riverview Avenue, Napoleon, OH, 43545",
+            "location": {
+                "lat": 41.411335474,
+                "lon": -84.087346031
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.411335474,-84.087346031",
+            "phone": "(419) 592-4015"
+        },
+        {
+            "name": "Samaritan Hospital - Peoples Hospital",
+            "address": "1025 Center St, Ashland, OH, 44805",
+            "location": {
+                "lat": 40.859228973,
+                "lon": -82.309537858
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.859228973,-82.309537858",
+            "phone": "(419) 289-0491"
+        },
+        {
+            "name": "Paulding County Hospital",
+            "address": "1035 West Wayne St., Paulding, OH, 45879",
+            "location": {
+                "lat": 41.134399811,
+                "lon": -84.601086576
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.134399811,-84.601086576",
+            "phone": "(419) 399-4080"
+        },
+        {
+            "name": "Uh Geauga Medical Center",
+            "address": "13207 Ravenna Rd, Chardon, OH, 44024",
+            "location": {
+                "lat": 41.509257997,
+                "lon": -81.189092792
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.509257997,-81.189092792",
+            "phone": "(440) 269-6000"
+        },
+        {
+            "name": "Highland District Hospital",
+            "address": "1275 North High Street, Hillsboro, OH, 45133",
+            "location": {
+                "lat": 39.221753009,
+                "lon": -83.610765233
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.221753009,-83.610765233",
+            "phone": "(937) 393-6100"
+        },
+        {
+            "name": "Wayne Hospital",
+            "address": "835 Sweitzer Street, Greenville, OH, 45331",
+            "location": {
+                "lat": 40.089291772,
+                "lon": -84.634741097
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.089291772,-84.634741097",
+            "phone": "(937) 547-5926"
+        },
+        {
+            "name": "Emh Regional Medical Center",
+            "address": "630 East River Street, Elyria, OH, 44035",
+            "location": {
+                "lat": 41.366855589,
+                "lon": -82.097292351
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.366855589,-82.097292351",
+            "phone": "(440) 329-7500"
+        },
+        {
+            "name": "Toledo Hospital The",
+            "address": "2142 North Cove Boulevard, Toledo, OH, 43606",
+            "location": {
+                "lat": 41.672349559,
+                "lon": -83.595258387
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.672349559,-83.595258387",
+            "phone": "(419) 291-7463"
+        },
+        {
+            "name": "Trinity Medical Ctr East&Trinity Medical Ctr West",
+            "address": "380 Summit Avenue, Steubenville, OH, 43952",
+            "location": {
+                "lat": 40.354755529,
+                "lon": -80.62549638
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.354755529,-80.62549638",
+            "phone": "(740) 264-7212"
+        },
+        {
+            "name": "St John Medical Center",
+            "address": "29000 Center Ridge Road, Westlake, OH, 44145",
+            "location": {
+                "lat": 41.435645937,
+                "lon": -81.944736066
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.435645937,-81.944736066",
+            "phone": "(440) 835-8000"
+        },
+        {
+            "name": "Wyandot Memorial Hospital",
+            "address": "885 North Sandusky Avenue, Upper Sandusky, OH, 43351",
+            "location": {
+                "lat": 40.840299382,
+                "lon": -83.279956898
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.840299382,-83.279956898",
+            "phone": "(419) 294-4991"
+        },
+        {
+            "name": "Northside Medical Center",
+            "address": "500 Gypsy Lane, Youngstown, OH, 44501",
+            "location": {
+                "lat": 41.135005074,
+                "lon": -80.658038388
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.135005074,-80.658038388",
+            "phone": "(330) 884-1000"
+        },
+        {
+            "name": "Community Hospitals And Wellness Centers",
+            "address": "433 West High Street, Bryan, OH, 43506",
+            "location": {
+                "lat": 41.474096909,
+                "lon": -84.556694156
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.474096909,-84.556694156",
+            "phone": "(419) 636-1131"
+        },
+        {
+            "name": "Allen Community Hospital",
+            "address": "200 West Lorain Street, Oberlin, OH, 44074",
+            "location": {
+                "lat": 41.295064762,
+                "lon": -82.224712965
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.295064762,-82.224712965",
+            "phone": "(440) 775-1211"
+        },
+        {
+            "name": "St Thomas Hospital",
+            "address": "444 North Main Street, Akron, OH, 44310",
+            "location": {
+                "lat": 41.097634392,
+                "lon": -81.514073309
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.097634392,-81.514073309",
+            "phone": "(330) 668-4040"
+        },
+        {
+            "name": "Lutheran Hospital",
+            "address": "1730 West 25Th Street, Cleveland, OH, 44113",
+            "location": {
+                "lat": 41.487633376,
+                "lon": -81.707262893
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.487633376,-81.707262893",
+            "phone": "(216) 696-4300"
+        },
+        {
+            "name": "St Vincent Charity Medical Center",
+            "address": "2351 East 22Nd Street, Cleveland, OH, 44115",
+            "location": {
+                "lat": 41.495850538,
+                "lon": -81.673114855
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.495850538,-81.673114855",
+            "phone": "(216) 861-6200"
+        },
+        {
+            "name": "University Of Toledo Medical Center",
+            "address": "3000 Arlington Avenue, Toledo, OH, 43699",
+            "location": {
+                "lat": 41.618767238,
+                "lon": -83.616032643
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.618767238,-83.616032643",
+            "phone": "(419) 383-3413"
+        },
+        {
+            "name": "Gateway Regional Medical Center",
+            "address": "2100 Madison Avenue, Granite City, IL, 62040",
+            "location": {
+                "lat": 38.700660317,
+                "lon": -90.143674971
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.700660317,-90.143674971",
+            "phone": "(618) 798-3175"
+        },
+        {
+            "name": "Glenbrook Hospital",
+            "address": "2100 Pfingsten Road, Glenview, IL, 60026",
+            "location": {
+                "lat": 42.092538491,
+                "lon": -87.852721333
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.092538491,-87.852721333",
+            "phone": "(847) 657-5800"
+        },
+        {
+            "name": "Uhs Hartgrove Hospital",
+            "address": "5730 West Roosevelt Road, Chicago, IL, 60644",
+            "location": {
+                "lat": 41.866329528,
+                "lon": -87.767464243
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.866329528,-87.767464243",
+            "phone": "(773) 413-1700"
+        },
+        {
+            "name": "Provena St Joseph Medical Center",
+            "address": "333 N Madison, Joliet, IL, 60435",
+            "location": {
+                "lat": 41.527848988,
+                "lon": -88.135787442
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.527848988,-88.135787442",
+            "phone": "(815) 725-7133"
+        },
+        {
+            "name": "Loyola Gottlieb Memorial Hospital",
+            "address": "701 West North Ave, Melrose Park, IL, 60160",
+            "location": {
+                "lat": 41.910529781,
+                "lon": -87.842815074
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.910529781,-87.842815074",
+            "phone": "(708) 450-4924"
+        },
+        {
+            "name": "Thorek Memorial Hospital",
+            "address": "850 W Irving Park Rd, Chicago, IL, 60613",
+            "location": {
+                "lat": 41.955189016,
+                "lon": -87.65162124
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.955189016,-87.65162124",
+            "phone": "(312) 525-6780"
+        },
+        {
+            "name": "Rush University Medical Center",
+            "address": "1653 West Congress Parkway, Chicago, IL, 60612",
+            "location": {
+                "lat": 41.87457186,
+                "lon": -87.668909819
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.87457186,-87.668909819",
+            "phone": "(312) 942-5000"
+        },
+        {
+            "name": "Lincoln Prairie Behavioral Health Center",
+            "address": "5230 South Sixth Street, Springfield, IL, 62703",
+            "location": {
+                "lat": 39.752501593,
+                "lon": -89.646345207
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.752501593,-89.646345207",
+            "phone": "(217) 585-1180"
+        },
+        {
+            "name": "Franciscan St James Health",
+            "address": "20201 S Crawford Avenue, Olympia Fields, IL, 60461",
+            "location": {
+                "lat": 41.52310929,
+                "lon": -87.711350169
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.52310929,-87.711350169",
+            "phone": "(708) 747-4000"
+        },
+        {
+            "name": "Shelby Memorial Hospital",
+            "address": "200 S Cedar St, Shelbyville, IL, 62565",
+            "location": {
+                "lat": 39.40578183,
+                "lon": -88.807950641
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.40578183,-88.807950641",
+            "phone": "(217) 774-3961"
+        },
+        {
+            "name": "Metrosouth Medical Center",
+            "address": "12935 S Gregory, Blue Island, IL, 60406",
+            "location": {
+                "lat": 41.658114194,
+                "lon": -87.677830286
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.658114194,-87.677830286",
+            "phone": "(708) 597-2000"
+        },
+        {
+            "name": "Abraham Lincoln Memorial Hospital",
+            "address": "200 Stahlhut Drive, Lincoln, IL, 62656",
+            "location": {
+                "lat": 40.153786502,
+                "lon": -89.389893553
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.153786502,-89.389893553",
+            "phone": "(217) 732-2161"
+        },
+        {
+            "name": "Hamilton Memorial Hospital District",
+            "address": "611 S Marshall Avenue, Mcleansboro, IL, 62859",
+            "location": {
+                "lat": 38.086851989,
+                "lon": -88.540504101
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.086851989,-88.540504101",
+            "phone": "(618) 643-2361"
+        },
+        {
+            "name": "Valley West Community Hospital",
+            "address": "11 East Pleasant Avenue, Sandwich, IL, 60548",
+            "location": {
+                "lat": 41.657433858,
+                "lon": -88.62061962
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.657433858,-88.62061962",
+            "phone": "(815) 786-8484"
+        },
+        {
+            "name": "Delnor Community Hospital",
+            "address": "300 Randall Rd, Geneva, IL, 60134",
+            "location": {
+                "lat": 41.886614965,
+                "lon": -88.343450363
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.886614965,-88.343450363",
+            "phone": "(630) 208-3000"
+        },
+        {
+            "name": "Veterans Affairs Illiana Health Care System",
+            "address": "1900 E. Main, Danville, IL, 61832",
+            "location": {
+                "lat": 40.123271713,
+                "lon": -87.586953131
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.123271713,-87.586953131",
+            "phone": "(217) 554-3000"
+        },
+        {
+            "name": "Aurora Chicago Lakeshore Hospital, Llc - Dba Aurora Chicago Lakeshore Hospital",
+            "address": "4840 N. Marine Drive, Chicago, IL, 60640",
+            "location": {
+                "lat": 41.970299294,
+                "lon": -87.650600027
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.970299294,-87.650600027",
+            "phone": "(773) 878-9700"
+        },
+        {
+            "name": "Heartland Regional Medical Center",
+            "address": "3333 W De Young, Marion, IL, 62959",
+            "location": {
+                "lat": 37.742843169,
+                "lon": -88.991335579
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=37.742843169,-88.991335579",
+            "phone": "(618) 998-7000"
+        },
+        {
+            "name": "Silver Cross Hospital  And Medical Centers",
+            "address": "1900 Silver Cross Blvd, New Lenox, IL, 60451",
+            "location": {
+                "lat": 41.54468733,
+                "lon": -87.98343597
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.54468733,-87.98343597",
+            "phone": "(815) 740-1100"
+        },
+        {
+            "name": "Anderson Hospital",
+            "address": "6800 State Route 162, Maryville, IL, 62062",
+            "location": {
+                "lat": 38.736770578,
+                "lon": -89.946707681
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.736770578,-89.946707681",
+            "phone": "(618) 288-5711"
+        },
+        {
+            "name": "Presence Covenant Medical Center",
+            "address": "1400 West Park Avenue, Urbana, IL, 61801",
+            "location": {
+                "lat": 40.117971109,
+                "lon": -88.227107261
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.117971109,-88.227107261",
+            "phone": "(217) 337-2000"
+        },
+        {
+            "name": "Rm Health Providers Ltd Partnership - Dba Rml Specialty Hospital",
+            "address": "5601 South County Line Road, Hinsdale, IL, 60521",
+            "location": {
+                "lat": 41.786185319,
+                "lon": -87.915307613
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.786185319,-87.915307613",
+            "phone": "(630) 286-4123"
+        },
+        {
+            "name": "Saint Anthony Medical Center",
+            "address": "5666 East State Street, Rockford, IL, 61107",
+            "location": {
+                "lat": 42.269886013,
+                "lon": -89.007721583
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.269886013,-89.007721583",
+            "phone": "(815) 226-2000"
+        },
+        {
+            "name": "Decatur Memorial Hospital",
+            "address": "2300 North Edward Street, Decatur, IL, 62526",
+            "location": {
+                "lat": 39.867253398,
+                "lon": -88.960982947
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.867253398,-88.960982947",
+            "phone": "(217) 877-8121"
+        },
+        {
+            "name": "Advocate Good Shepherd Hospital",
+            "address": "450 West Highway 22, Barrington, IL, 60010",
+            "location": {
+                "lat": 42.195382371,
+                "lon": -88.172818871
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.195382371,-88.172818871",
+            "phone": "(847) 381-9600"
+        },
+        {
+            "name": "Sparta Community Hospital",
+            "address": "818 E Broadway, Sparta, IL, 62286",
+            "location": {
+                "lat": 38.124114993,
+                "lon": -89.69153853
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.124114993,-89.69153853",
+            "phone": "(618) 443-2177"
+        },
+        {
+            "name": "Saint Anthony's Hospital",
+            "address": "915 East 5Th Street, Alton, IL, 62002",
+            "location": {
+                "lat": 38.890365585,
+                "lon": -90.170754832
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.890365585,-90.170754832",
+            "phone": "(618) 463-5150"
+        },
+        {
+            "name": "St Johns Hospital",
+            "address": "800 E Carpenter St, Springfield, IL, 62702",
+            "location": {
+                "lat": 39.805439016,
+                "lon": -89.644008038
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.805439016,-89.644008038",
+            "phone": "(217) 544-6464"
+        },
+        {
+            "name": "St Mary Medical Center",
+            "address": "3333 North Seminary, Galesburg, IL, 61401",
+            "location": {
+                "lat": 40.986710283,
+                "lon": -90.360244917
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.986710283,-90.360244917",
+            "phone": "(309) 344-3161"
+        },
+        {
+            "name": "Salem Township Hospital",
+            "address": "1201 Ricker Drive, Salem, IL, 62881",
+            "location": {
+                "lat": 38.641479887,
+                "lon": -88.948550053
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.641479887,-88.948550053",
+            "phone": "(618) 548-3194"
+        },
+        {
+            "name": "Sacred Heart Hospital",
+            "address": "3240 W Franklin Blvd, Chicago, IL, 60624",
+            "location": {
+                "lat": 41.890621514,
+                "lon": -87.707878469
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.890621514,-87.707878469",
+            "phone": "(773) 722-3020"
+        },
+        {
+            "name": "Little Company Of Mary Hospital",
+            "address": "2800 W 95Th St, Evergreen Park, IL, 60805",
+            "location": {
+                "lat": 41.721464999,
+                "lon": -87.693028878
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.721464999,-87.693028878",
+            "phone": "(708) 422-6200"
+        },
+        {
+            "name": "Methodist Hospital Of Chicago",
+            "address": "5025 N Paulina Street, Chicago, IL, 60640",
+            "location": {
+                "lat": 41.973086773,
+                "lon": -87.670743057
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.973086773,-87.670743057",
+            "phone": "(773) 271-9040"
+        },
+        {
+            "name": "Swedishamerican Medical Center Belvidere",
+            "address": "1625 South State Street, Belvidere, IL, 61008",
+            "location": {
+                "lat": 42.243012259,
+                "lon": -88.839745098
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.243012259,-88.839745098",
+            "phone": "(815) 547-5441"
+        },
+        {
+            "name": "Central Dupage Hospital",
+            "address": "25 North Winfield Road, Winfield, IL, 60190",
+            "location": {
+                "lat": 41.873520563,
+                "lon": -88.155758695
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.873520563,-88.155758695",
+            "phone": "(630) 682-1600"
+        },
+        {
+            "name": "Saint James Hospital",
+            "address": "2500 West Reynolds Street, Pontiac, IL, 61764",
+            "location": {
+                "lat": 40.870997483,
+                "lon": -88.679515094
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.870997483,-88.679515094",
+            "phone": "(815) 842-2828"
+        },
+        {
+            "name": "Greater Peoria Specialty Hospital Llc - Dba Kindred Hospital Peoria",
+            "address": "500 West Romeo B Garrett Avenue, Peoria, IL, 61605",
+            "location": {
+                "lat": 40.692888624,
+                "lon": -89.600729651
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.692888624,-89.600729651",
+            "phone": "(309) 680-1500"
+        },
+        {
+            "name": "Adventist La Grange Memorial Hospital",
+            "address": "5101 S Willow Springs Rd, La Grange, IL, 60525",
+            "location": {
+                "lat": 41.797060552,
+                "lon": -87.886394926
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.797060552,-87.886394926",
+            "phone": "(708) 352-1200"
+        },
+        {
+            "name": "Passavant Area Hospital",
+            "address": "1600 W Walnut St, Jacksonville, IL, 62650",
+            "location": {
+                "lat": 39.746084993,
+                "lon": -90.260486636
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.746084993,-90.260486636",
+            "phone": "(217) 245-9551"
+        },
+        {
+            "name": "Northwestern Lake Forest Hospital",
+            "address": "660 N Westmoreland Road, Lake Forest, IL, 60045",
+            "location": {
+                "lat": 42.252278629,
+                "lon": -87.86529443
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.252278629,-87.86529443",
+            "phone": "(847) 234-5600"
+        },
+        {
+            "name": "Thc Chicago, Inc. - Dba Kindred Hospital - Central",
+            "address": "4058 West Melrose Street, Chicago, IL, 60641",
+            "location": {
+                "lat": 41.940246575,
+                "lon": -87.728643694
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.940246575,-87.728643694",
+            "phone": "(773) 481-5708"
+        },
+        {
+            "name": "Copley Memorial Hospital",
+            "address": "2000 Ogden Avenue, Aurora, IL, 60504",
+            "location": {
+                "lat": 41.729007184,
+                "lon": -88.270615983
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.729007184,-88.270615983",
+            "phone": "(630) 978-6200"
+        },
+        {
+            "name": "St Anthonys Memorial Hospital",
+            "address": "503 N Maple Street, Effingham, IL, 62401",
+            "location": {
+                "lat": 39.125776017,
+                "lon": -88.550125219
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.125776017,-88.550125219",
+            "phone": "(217) 342-2121"
+        },
+        {
+            "name": "Northwest Community Hospital",
+            "address": "800 W Central Road, Arlington Heights, IL, 60005",
+            "location": {
+                "lat": 42.068291106,
+                "lon": -87.992181634
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.068291106,-87.992181634",
+            "phone": "(847) 618-1000"
+        },
+        {
+            "name": "St Elizabeth Hospital",
+            "address": "211 S Third St, Belleville, IL, 62220",
+            "location": {
+                "lat": 38.511120443,
+                "lon": -89.989163979
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.511120443,-89.989163979",
+            "phone": "(618) 234-2120"
+        },
+        {
+            "name": "Gibson Community Hospital",
+            "address": "1120 N Melvin Street, Gibson City, IL, 60936",
+            "location": {
+                "lat": 40.478366976,
+                "lon": -88.370264992
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.478366976,-88.370264992",
+            "phone": "(217) 784-4251"
+        },
+        {
+            "name": "Shriners Hospital For Children - Chicago",
+            "address": "2211 North Oak Park Avenue, Chicago, IL, 60707",
+            "location": {
+                "lat": 41.919838038,
+                "lon": -87.793422515
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.919838038,-87.793422515",
+            "phone": "(773) 622-5400"
+        },
+        {
+            "name": "Herrin Hospital",
+            "address": "201 S 14Th St, Herrin, IL, 62948",
+            "location": {
+                "lat": 37.8010121,
+                "lon": -89.026313269
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=37.8010121,-89.026313269",
+            "phone": "(618) 942-2171"
+        },
+        {
+            "name": "Union County Hospital",
+            "address": "517 North Main Street, Anna, IL, 62906",
+            "location": {
+                "lat": 37.464994631,
+                "lon": -89.245600019
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=37.464994631,-89.245600019",
+            "phone": "(618) 833-4511"
+        },
+        {
+            "name": "South Shore Hospital",
+            "address": "8012 South Crandon Avenue, Chicago, IL, 60617",
+            "location": {
+                "lat": 41.749327394,
+                "lon": -87.568996879
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.749327394,-87.568996879",
+            "phone": "(773) 768-0810"
+        },
+        {
+            "name": "Wabash General Hospital",
+            "address": "1418 College Drive, Mount Carmel, IL, 62863",
+            "location": {
+                "lat": 38.420606927,
+                "lon": -87.769388841
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.420606927,-87.769388841",
+            "phone": "(618) 262-8621"
+        },
+        {
+            "name": "Crawford Memorial Hospital",
+            "address": "1000 North Allen Street, Robinson, IL, 62454",
+            "location": {
+                "lat": 39.014541461,
+                "lon": -87.750416765
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.014541461,-87.750416765",
+            "phone": "(618) 546-2514"
+        },
+        {
+            "name": "Harrisburg Medical Center",
+            "address": "100 Doctor Warren Tuttle Dr, Harrisburg, IL, 62946",
+            "location": {
+                "lat": 37.731043606,
+                "lon": -88.523133984
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=37.731043606,-88.523133984",
+            "phone": "(618) 253-7671"
+        },
+        {
+            "name": "Blessing Hospital At 14Th Street",
+            "address": "1415 Vermont Street, Quincy, IL, 62301",
+            "location": {
+                "lat": 39.935093666,
+                "lon": -91.391403913
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.935093666,-91.391403913",
+            "phone": "(217) 223-1200"
+        },
+        {
+            "name": "OSF Saint Elizabeth Medical Center",
+            "address": "1100 East Norris Drive, Ottawa, IL, 61350",
+            "location": {
+                "lat": 41.357701653,
+                "lon": -88.824413266
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.357701653,-88.824413266",
+            "phone": "(815) 433-3100"
+        },
+        {
+            "name": "Advocate Condell Medical Center",
+            "address": "801 S Milwaukee Ave, Libertyville, IL, 60048",
+            "location": {
+                "lat": 42.274235002,
+                "lon": -87.957699742
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.274235002,-87.957699742",
+            "phone": "(847) 990-5200"
+        },
+        {
+            "name": "Loyola University Medical Center",
+            "address": "2160 S 1St Avenue, Maywood, IL, 60141",
+            "location": {
+                "lat": 41.860682778,
+                "lon": -87.834722086
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.860682778,-87.834722086",
+            "phone": "(708) 216-9000"
+        },
+        {
+            "name": "Marshall Browning Hospital",
+            "address": "900 North Washington Street, Du Quoin, IL, 62832",
+            "location": {
+                "lat": 38.025268461,
+                "lon": -89.236474973
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.025268461,-89.236474973",
+            "phone": "(618) 542-2146"
+        },
+        {
+            "name": "Taylorville Memorial Hospital",
+            "address": "201 East Pleasant Street, Taylorville, IL, 62568",
+            "location": {
+                "lat": 39.555325371,
+                "lon": -89.294259543
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.555325371,-89.294259543",
+            "phone": "(217) 824-3331"
+        },
+        {
+            "name": "Advocate Trinity Hospital",
+            "address": "2320 E 93Rd St, Chicago, IL, 60617",
+            "location": {
+                "lat": 41.726504393,
+                "lon": -87.567226181
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.726504393,-87.567226181",
+            "phone": "(773) 967-2000"
+        },
+        {
+            "name": "Swedish Covenant Hospital",
+            "address": "5145 N California Ave, Chicago, IL, 60625",
+            "location": {
+                "lat": 41.975351554,
+                "lon": -87.69946587
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.975351554,-87.69946587",
+            "phone": "(773) 878-8200"
+        },
+        {
+            "name": "Rml Health Providers Limited Partnership - Dba Rml Chicago",
+            "address": "3435 West Van Buren Street, Chicago, IL, 60624",
+            "location": {
+                "lat": 41.874944893,
+                "lon": -87.712272054
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.874944893,-87.712272054",
+            "phone": "(773) 826-6400"
+        },
+        {
+            "name": "Hoopeston Community Memorial Hospital",
+            "address": "701 East Orange Street, Hoopeston, IL, 60942",
+            "location": {
+                "lat": 40.458689892,
+                "lon": -87.659733271
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.458689892,-87.659733271",
+            "phone": "(217) 283-5531"
+        },
+        {
+            "name": "Morrison Community Hospital",
+            "address": "303 N Jackson Street, Morrison, IL, 61270",
+            "location": {
+                "lat": 41.80893488,
+                "lon": -89.957878082
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.80893488,-89.957878082",
+            "phone": "(815) 772-4003"
+        },
+        {
+            "name": "Good Samaritan Regional Hlth Center",
+            "address": "605 N 12Th Street, Mount Vernon, IL, 62864",
+            "location": {
+                "lat": 38.322314596,
+                "lon": -88.91029407
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.322314596,-88.91029407",
+            "phone": "(618) 242-4600"
+        },
+        {
+            "name": "Midwest Medical Center",
+            "address": "One Medical Center Drive, Galena, IL, 61036",
+            "location": {
+                "lat": 42.449177567,
+                "lon": -90.4577401
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.449177567,-90.4577401",
+            "phone": "(815) 777-1340"
+        },
+        {
+            "name": "Midwestern Region Med Center",
+            "address": "2520 Elisha Avenue, Zion, IL, 60099",
+            "location": {
+                "lat": 42.44925783,
+                "lon": -87.827832844
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.44925783,-87.827832844",
+            "phone": "(847) 872-4561"
+        },
+        {
+            "name": "Marianjoy Rehabilitation Center",
+            "address": "26 West 171 Roosevelt Road, Wheaton, IL, 60187",
+            "location": {
+                "lat": 41.852517018,
+                "lon": -88.13760059
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.852517018,-88.13760059",
+            "phone": "(630) 462-4000"
+        },
+        {
+            "name": "North Chicago Va Medical Center",
+            "address": "3001 Greenbay Road, North Chicago, IL, 60088",
+            "location": {
+                "lat": 42.307012014,
+                "lon": -87.860522145
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.307012014,-87.860522145",
+            "phone": "(847) 688-1900"
+        },
+        {
+            "name": "Richland Memorial Hospital",
+            "address": "800 East Locust, Olney, IL, 62450",
+            "location": {
+                "lat": 38.736543571,
+                "lon": -88.077172889
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.736543571,-88.077172889",
+            "phone": "(618) 395-2131"
+        },
+        {
+            "name": "Van Matre Rehabilitation Hospital",
+            "address": "950 S. Mulford Road, Rockford, IL, 61108",
+            "location": {
+                "lat": 42.258548542,
+                "lon": -88.997155598
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.258548542,-88.997155598",
+            "phone": "(815) 381-8548"
+        },
+        {
+            "name": "Vista Medical Center East",
+            "address": "1324 North Sheridan Road, Waukegan, IL, 60085",
+            "location": {
+                "lat": 42.378359187,
+                "lon": -87.831014942
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.378359187,-87.831014942",
+            "phone": "(847) 360-4000"
+        },
+        {
+            "name": "Illini Community Hospital",
+            "address": "640 W Washington, Pittsfield, IL, 62363",
+            "location": {
+                "lat": 39.607443478,
+                "lon": -90.815132697
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=39.607443478,-90.815132697",
+            "phone": "(217) 285-2113"
+        },
+        {
+            "name": "Thc Chicago, Inc. - Dba Kindred Hospital - Northlake",
+            "address": "365 East North Avenue, Northlake, IL, 60164",
+            "location": {
+                "lat": 41.90690379,
+                "lon": -87.890589772
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.90690379,-87.890589772",
+            "phone": "(708) 345-8100"
+        },
+        {
+            "name": "Provena - Saint Joseph Hospital",
+            "address": "77 N Airlite Street, Elgin, IL, 60123",
+            "location": {
+                "lat": 42.035269532,
+                "lon": -88.326947131
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.035269532,-88.326947131",
+            "phone": "(847) 695-3200"
+        },
+        {
+            "name": "Memorial Hospital",
+            "address": "4500 Memorial Drive, Belleville, IL, 62226",
+            "location": {
+                "lat": 38.549818487,
+                "lon": -90.021616557
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.549818487,-90.021616557",
+            "phone": "(618) 233-7750"
+        },
+        {
+            "name": "St Alexius Medical Center",
+            "address": "1555 N Barrington Rd, Hoffman Estates, IL, 60169",
+            "location": {
+                "lat": 42.052928459,
+                "lon": -88.141034225
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.052928459,-88.141034225",
+            "phone": "(847) 843-2000"
+        },
+        {
+            "name": "Galesburg Cottage Hospital",
+            "address": "695 N Kellogg St, Galesburg, IL, 61401",
+            "location": {
+                "lat": 40.95579903,
+                "lon": -90.365760264
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.95579903,-90.365760264",
+            "phone": "(309) 345-4555"
+        },
+        {
+            "name": "Clay County Hospital",
+            "address": "911 Stacy Burk Drive, Flora, IL, 62839",
+            "location": {
+                "lat": 38.680850808,
+                "lon": -88.47281706
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.680850808,-88.47281706",
+            "phone": "(618) 662-2131"
+        },
+        {
+            "name": "Franklin Hospital",
+            "address": "201 Bailey Lane, Benton, IL, 62812",
+            "location": {
+                "lat": 38.010103782,
+                "lon": -88.918215191
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.010103782,-88.918215191",
+            "phone": "(618) 439-3761"
+        },
+        {
+            "name": "Roseland Community Hospital",
+            "address": "45 W 111Th Street, Chicago, IL, 60628",
+            "location": {
+                "lat": 41.692226444,
+                "lon": -87.625355678
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.692226444,-87.625355678",
+            "phone": "(773) 995-3000"
+        },
+        {
+            "name": "The University Of Chicago Medical Center",
+            "address": "5841 South Maryland, Chicago, IL, 60637",
+            "location": {
+                "lat": 41.788746851,
+                "lon": -87.604337126
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.788746851,-87.604337126",
+            "phone": "(773) 702-1000"
+        },
+        {
+            "name": "St Marys Hospital",
+            "address": "400 North Pleasant Avenue, Centralia, IL, 62801",
+            "location": {
+                "lat": 38.530281432,
+                "lon": -89.117206305
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.530281432,-89.117206305",
+            "phone": "(618) 436-8000"
+        },
+        {
+            "name": "Graham Hospital Association",
+            "address": "210 West Walnut Street, Canton, IL, 61520",
+            "location": {
+                "lat": 40.552669087,
+                "lon": -90.038829974
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.552669087,-90.038829974",
+            "phone": "(309) 647-5240"
+        },
+        {
+            "name": "Highland Park Hospital",
+            "address": "777 Park Avenue West, Highland Park, IL, 60035",
+            "location": {
+                "lat": 42.191106767,
+                "lon": -87.808414946
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.191106767,-87.808414946",
+            "phone": "(847) 432-8000"
+        },
+        {
+            "name": "Vista Medical Center West",
+            "address": "2615 Washington St, Waukegan, IL, 60085",
+            "location": {
+                "lat": 42.35842711,
+                "lon": -87.866653796
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.35842711,-87.866653796",
+            "phone": "(847) 249-3900"
+        },
+        {
+            "name": "St Marys Hospital",
+            "address": "111  Spring Street, Streator, IL, 61364",
+            "location": {
+                "lat": 41.11359098,
+                "lon": -88.834582237
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.11359098,-88.834582237",
+            "phone": "(815) 673-2311"
+        },
+        {
+            "name": "Proctor Hospital",
+            "address": "5409 N Knoxville Ave, Peoria, IL, 61614",
+            "location": {
+                "lat": 40.752663017,
+                "lon": -89.593965953
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.752663017,-89.593965953",
+            "phone": "(309) 691-1000"
+        },
+        {
+            "name": "Maryville Academy/Scott A. Nolan Center",
+            "address": "555 Wilson Lane, Des Plaines, IL, 60016",
+            "location": {
+                "lat": 42.043437648,
+                "lon": -87.879034145
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.043437648,-87.879034145",
+            "phone": "(847) 768-5430"
+        },
+        {
+            "name": "Fairfield Memorial Hospital",
+            "address": "303 N W 11Th Street, Fairfield, IL, 62837",
+            "location": {
+                "lat": 38.381248193,
+                "lon": -88.37526611
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.381248193,-88.37526611",
+            "phone": "(618) 842-2611"
+        },
+        {
+            "name": "Mason District Hospital",
+            "address": "615 North Promenade Street,P O Box 530, Havana, IL, 62644",
+            "location": {
+                "lat": 40.305423138,
+                "lon": -90.054090696
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.305423138,-90.054090696",
+            "phone": "(309) 543-4431"
+        },
+        {
+            "name": "Northwestern Memorial Hospital",
+            "address": "251 E Huron St, Chicago, IL, 60611",
+            "location": {
+                "lat": 41.894607713,
+                "lon": -87.621024366
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.894607713,-87.621024366",
+            "phone": "(312) 926-2000"
+        },
+        {
+            "name": "Riverside Medical Center",
+            "address": "350 N Wall St, Kankakee, IL, 60901",
+            "location": {
+                "lat": 41.125086857,
+                "lon": -87.881898891
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.125086857,-87.881898891",
+            "phone": "(815) 933-1671"
+        },
+        {
+            "name": "Illinois Valley Community Hospital",
+            "address": "925 West St, Peru, IL, 61354",
+            "location": {
+                "lat": 41.328868574,
+                "lon": -89.124333749
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.328868574,-89.124333749",
+            "phone": "(815) 223-3300"
+        },
+        {
+            "name": "Pinckneyville Community Hospital",
+            "address": "101 N Walnut, Pinckneyville, IL, 62274",
+            "location": {
+                "lat": 38.081069737,
+                "lon": -89.383319385
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=38.081069737,-89.383319385",
+            "phone": "(618) 357-2187"
+        },
+        {
+            "name": "Larabida Children'S Hospital",
+            "address": "East 65Th At Lake Michigan, Chicago, IL, 60649",
+            "location": {
+                "lat": 41.777293335,
+                "lon": -87.571312434
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.777293335,-87.571312434",
+            "phone": "(773) 363-6700"
+        },
+        {
+            "name": "Provena St Marys Hospital",
+            "address": "500 W Court St, Kankakee, IL, 60901",
+            "location": {
+                "lat": 41.120716481,
+                "lon": -87.871972449
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.120716481,-87.871972449",
+            "phone": "(815) 937-2490"
+        },
+        {
+            "name": "Cgh Medical Center",
+            "address": "100 East Lefevre Road, Sterling, IL, 61081",
+            "location": {
+                "lat": 41.80220562,
+                "lon": -89.696655578
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.80220562,-89.696655578",
+            "phone": "(815) 625-0400"
+        },
+        {
+            "name": "Mt Sinai Hospital Medical Center",
+            "address": "15Th Street At California, Chicago, IL, 60608",
+            "location": {
+                "lat": 41.860809726,
+                "lon": -87.694338583
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.860809726,-87.694338583",
+            "phone": "(773) 257-6751"
+        },
+        {
+            "name": "Loretto Hospital",
+            "address": "645 South Central Ave, Chicago, IL, 60644",
+            "location": {
+                "lat": 41.872124573,
+                "lon": -87.76408865
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.872124573,-87.76408865",
+            "phone": "(773) 626-4300"
+        },
+        {
+            "name": "University Of Illinois Hospital",
+            "address": "1740 West Taylor St Suite 1400, Chicago, IL, 60612",
+            "location": {
+                "lat": 41.869668774,
+                "lon": -87.670515373
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.869668774,-87.670515373",
+            "phone": "(312) 996-3900"
+        },
+        {
+            "name": "Rehabilitation Institute Of Chicago",
+            "address": "345 East Superior Street, Chicago, IL, 60611",
+            "location": {
+                "lat": 41.895454536,
+                "lon": -87.618334799
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.895454536,-87.618334799",
+            "phone": "(312) 908-6005"
+        },
+        {
+            "name": "Saints Mary And Elizabeth Medical Center - Dba Saint Elizabeth Hospital",
+            "address": "1431 N. Claremont Avenue, Chicago, IL, 60622",
+            "location": {
+                "lat": 41.907579528,
+                "lon": -87.68543212
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.907579528,-87.68543212",
+            "phone": "(312) 770-2115"
+        },
+        {
+            "name": "Schwab Rehabilitation Center",
+            "address": "1401 South California Boulevard, Chicago, IL, 60608",
+            "location": {
+                "lat": 41.862296758,
+                "lon": -87.695316661
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.862296758,-87.695316661",
+            "phone": "(773) 522-2010"
+        },
+        {
+            "name": "Uhs Hartgrove Hospital",
+            "address": "5730 West Roosevelt Road, Chicago, IL, 60644",
+            "location": {
+                "lat": 41.866329528,
+                "lon": -87.767464243
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.866329528,-87.767464243",
+            "phone": "(773) 413-1700"
+        },
+        {
+            "name": "Thorek Memorial Hospital",
+            "address": "850 W Irving Park Rd, Chicago, IL, 60613",
+            "location": {
+                "lat": 41.955189016,
+                "lon": -87.65162124
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.955189016,-87.65162124",
+            "phone": "(312) 525-6780"
+        },
+        {
+            "name": "Rush University Medical Center",
+            "address": "1653 West Congress Parkway, Chicago, IL, 60612",
+            "location": {
+                "lat": 41.87457186,
+                "lon": -87.668909819
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.87457186,-87.668909819",
+            "phone": "(312) 942-5000"
+        },
+        {
+            "name": "Sacred Heart Hospital",
+            "address": "3240 W Franklin Blvd, Chicago, IL, 60624",
+            "location": {
+                "lat": 41.890621514,
+                "lon": -87.707878469
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.890621514,-87.707878469",
+            "phone": "(773) 722-3020"
+        },
+        {
+            "name": "Methodist Hospital Of Chicago",
+            "address": "5025 N Paulina Street, Chicago, IL, 60640",
+            "location": {
+                "lat": 41.973086773,
+                "lon": -87.670743057
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.973086773,-87.670743057",
+            "phone": "(773) 271-9040"
+        },
+        {
+            "name": "Thc Chicago, Inc. - Dba Kindred Hospital - Central",
+            "address": "4058 West Melrose Street, Chicago, IL, 60641",
+            "location": {
+                "lat": 41.940246575,
+                "lon": -87.728643694
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.940246575,-87.728643694",
+            "phone": "(773) 481-5708"
+        },
+        {
+            "name": "Aurora Chicago Lakeshore Hospital, Llc - Dba Aurora Chicago Lakeshore Hospital",
+            "address": "4840 N. Marine Drive, Chicago, IL, 60640",
+            "location": {
+                "lat": 41.970299294,
+                "lon": -87.650600027
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.970299294,-87.650600027",
+            "phone": "(773) 878-9700"
+        },
+        {
+            "name": "Shriners Hospital For Children - Chicago",
+            "address": "2211 North Oak Park Avenue, Chicago, IL, 60707",
+            "location": {
+                "lat": 41.919838038,
+                "lon": -87.793422515
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.919838038,-87.793422515",
+            "phone": "(773) 622-5400"
+        },
+        {
+            "name": "South Shore Hospital",
+            "address": "8012 South Crandon Avenue, Chicago, IL, 60617",
+            "location": {
+                "lat": 41.749327394,
+                "lon": -87.568996879
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.749327394,-87.568996879",
+            "phone": "(773) 768-0810"
+        },
+        {
+            "name": "Advocate Trinity Hospital",
+            "address": "2320 E 93Rd St, Chicago, IL, 60617",
+            "location": {
+                "lat": 41.726504393,
+                "lon": -87.567226181
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.726504393,-87.567226181",
+            "phone": "(773) 967-2000"
+        },
+        {
+            "name": "Swedish Covenant Hospital",
+            "address": "5145 N California Ave, Chicago, IL, 60625",
+            "location": {
+                "lat": 41.975351554,
+                "lon": -87.69946587
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.975351554,-87.69946587",
+            "phone": "(773) 878-8200"
+        },
+        {
+            "name": "Rml Health Providers Limited Partnership - Dba Rml Chicago",
+            "address": "3435 West Van Buren Street, Chicago, IL, 60624",
+            "location": {
+                "lat": 41.874944893,
+                "lon": -87.712272054
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.874944893,-87.712272054",
+            "phone": "(773) 826-6400"
+        },
+        {
+            "name": "Roseland Community Hospital",
+            "address": "45 W 111Th Street, Chicago, IL, 60628",
+            "location": {
+                "lat": 41.692226444,
+                "lon": -87.625355678
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.692226444,-87.625355678",
+            "phone": "(773) 995-3000"
+        },
+        {
+            "name": "The University Of Chicago Medical Center",
+            "address": "5841 South Maryland, Chicago, IL, 60637",
+            "location": {
+                "lat": 41.788746851,
+                "lon": -87.604337126
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.788746851,-87.604337126",
+            "phone": "(773) 702-1000"
+        },
+        {
+            "name": "Northwestern Memorial Hospital",
+            "address": "251 E Huron St, Chicago, IL, 60611",
+            "location": {
+                "lat": 41.894607713,
+                "lon": -87.621024366
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.894607713,-87.621024366",
+            "phone": "(312) 926-2000"
+        },
+        {
+            "name": "Larabida Children'S Hospital",
+            "address": "East 65Th At Lake Michigan, Chicago, IL, 60649",
+            "location": {
+                "lat": 41.777293335,
+                "lon": -87.571312434
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.777293335,-87.571312434",
+            "phone": "(773) 363-6700"
+        },
+        {
+            "name": "Jesse Brown Va Medical Center - Va Chicago Healthcare System",
+            "address": "820 S Damen Street, Chicago, IL, 60612",
+            "location": {
+                "lat": 41.870737816,
+                "lon": -87.677041482
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.870737816,-87.677041482",
+            "phone": "(312) 569-8387"
+        },
+        {
+            "name": "St Mary & Elizabeth Med Ctr-Division Campus",
+            "address": "2233 W Division St, Chicago, IL, 60622",
+            "location": {
+                "lat": 41.903014282,
+                "lon": -87.682984376
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.903014282,-87.682984376",
+            "phone": "(312) 633-5896"
+        },
+        {
+            "name": "Mt Sinai Hospital Medical Center",
+            "address": "15Th Street At California, Chicago, IL, 60608",
+            "location": {
+                "lat": 41.860809726,
+                "lon": -87.694338583
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.860809726,-87.694338583",
+            "phone": "(773) 257-6751"
+        },
+        {
+            "name": "Loretto Hospital",
+            "address": "645 South Central Ave, Chicago, IL, 60644",
+            "location": {
+                "lat": 41.872124573,
+                "lon": -87.76408865
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.872124573,-87.76408865",
+            "phone": "(773) 626-4300"
+        },
+        {
+            "name": "Holy Cross Hospital",
+            "address": "2701 W 68Th Street, Chicago, IL, 60629",
+            "location": {
+                "lat": 41.769406691,
+                "lon": -87.69238033
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.769406691,-87.69238033",
+            "phone": "(773) 471-8000"
+        },
+        {
+            "name": "Advocate Illinois Masonic Medical Center",
+            "address": "836 West Wellington Avenue, Chicago, IL, 60657",
+            "location": {
+                "lat": 41.936740848,
+                "lon": -87.651371663
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.936740848,-87.651371663",
+            "phone": "(773) 975-1600"
+        },
+        {
+            "name": "Norwegian-American Hospital",
+            "address": "1044 N Francisco Ave, Chicago, IL, 60622",
+            "location": {
+                "lat": 41.900799838,
+                "lon": -87.699095477
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.900799838,-87.699095477",
+            "phone": "(773) 292-8200"
+        },
+        {
+            "name": "Saint Anthony Hospital",
+            "address": "2875 West 19Th Street, Chicago, IL, 60623",
+            "location": {
+                "lat": 41.855214534,
+                "lon": -87.698276963
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.855214534,-87.698276963",
+            "phone": "(773) 521-1710"
+        },
+        {
+            "name": "St Bernard Hospital",
+            "address": "326 W 64Th St, Chicago, IL, 60621",
+            "location": {
+                "lat": 41.778394561,
+                "lon": -87.633601339
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.778394561,-87.633601339",
+            "phone": "(773) 962-3900"
+        },
+        {
+            "name": "Louis A Weiss Memorial Hospital",
+            "address": "4646 N Marine Drive, Chicago, IL, 60640",
+            "location": {
+                "lat": 41.966468354,
+                "lon": -87.649626808
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.966468354,-87.649626808",
+            "phone": "(773) 878-8700"
+        },
+        {
+            "name": "Provident Hospital Of Chicago",
+            "address": "500 E 51St St, Chicago, IL, 60615",
+            "location": {
+                "lat": 41.802675013,
+                "lon": -87.613323872
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.802675013,-87.613323872",
+            "phone": "(312) 572-2000"
+        },
+        {
+            "name": "Our Lady Of The Resurrection Med Ctr",
+            "address": "5645 W Addison, Chicago, IL, 60634",
+            "location": {
+                "lat": 41.945445508,
+                "lon": -87.767835913
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.945445508,-87.767835913",
+            "phone": "(773) 282-7000"
+        },
+        {
+            "name": "Resurrection Medical Center",
+            "address": "7435 W Talcott Avenue, Chicago, IL, 60631",
+            "location": {
+                "lat": 41.987500292,
+                "lon": -87.81354582
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.987500292,-87.81354582",
+            "phone": "(773) 774-8000"
+        },
+        {
+            "name": "Jackson Park Hospital",
+            "address": "7531 S Stony Island Ave, Chicago, IL, 60649",
+            "location": {
+                "lat": 41.757730612,
+                "lon": -87.585235064
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.757730612,-87.585235064",
+            "phone": "(773) 947-7500"
+        },
+        {
+            "name": "John H Stroger Jr Hospital",
+            "address": "1901 W Harrison St, Chicago, IL, 60612",
+            "location": {
+                "lat": 41.872334867,
+                "lon": -87.674398458
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.872334867,-87.674398458",
+            "phone": "(312) 864-6000"
+        },
+        {
+            "name": "Mercy Hospital And Medical Center",
+            "address": "2525 S Michigan Ave, Chicago, IL, 60616",
+            "location": {
+                "lat": 41.846889583,
+                "lon": -87.621491598
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.846889583,-87.621491598",
+            "phone": "(312) 567-2000"
+        },
+        {
+            "name": "Saint Joseph Hospital",
+            "address": "2900 North Lake Shore Drive, Chicago, IL, 60657",
+            "location": {
+                "lat": 41.933820705,
+                "lon": -87.637069094
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.933820705,-87.637069094",
+            "phone": "(773) 665-3000"
+        },
+        {
+            "name": "Saint Francis Hospital",
+            "address": "100 Port Washington Blvd, Greenvale, NY, 11548",
+            "location": {
+                "lat": 40.804754732,
+                "lon": -73.670589683
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.804754732,-73.670589683",
+            "phone": "(516) 483-5000"
+        },
+        {
+            "name": "St Joseph's Hospital Health Center",
+            "address": "301 Prospect Ave, Syracuse, NY, 13203",
+            "location": {
+                "lat": 43.055933075,
+                "lon": -76.150061672
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.055933075,-76.150061672",
+            "phone": "(315) 448-5111"
+        },
+        {
+            "name": "Ellis Health Center",
+            "address": "600 Mcclellan St, Schenectady, NY, 12304",
+            "location": {
+                "lat": 42.80485019,
+                "lon": -73.915791007
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.80485019,-73.915791007",
+            "phone": "(518) 382-2000"
+        },
+        {
+            "name": "Rome Memorial Hospital",
+            "address": "1500 N James St, Rome, NY, 13440",
+            "location": {
+                "lat": 43.22913433,
+                "lon": -75.442354992
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.22913433,-75.442354992",
+            "phone": "(315) 338-7000"
+        },
+        {
+            "name": "Bon Secours Community Hospital",
+            "address": "160 E Main St, Port Jervis, NY, 12771",
+            "location": {
+                "lat": 41.3676357,
+                "lon": -74.681597186
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.3676357,-74.681597186",
+            "phone": "(845) 856-5351"
+        },
+        {
+            "name": "Massena Memorial Hospital",
+            "address": "1 Hospital Dr, Brasher Falls, NY, 13613",
+            "location": {
+                "lat": 44.93623403,
+                "lon": -74.908740086
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=44.93623403,-74.908740086",
+            "phone": "(315) 384-4550"
+        },
+        {
+            "name": "Saratoga Hospital",
+            "address": "211 Church St, Saratoga, NY, 12866",
+            "location": {
+                "lat": 43.085880219,
+                "lon": -73.796782733
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.085880219,-73.796782733",
+            "phone": "(518) 580-2589"
+        },
+        {
+            "name": "UHS Wilson Memorial Hospital",
+            "address": "33 57 Harrison Street, Johnson City, NY, 13790",
+            "location": {
+                "lat": 42.114199392,
+                "lon": -75.95852351
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.114199392,-75.95852351",
+            "phone": "(607) 762-2375"
+        },
+        {
+            "name": "Moses Ludington Hospital",
+            "address": "1019 Wicker St, Ticonderoga, NY, 12883",
+            "location": {
+                "lat": 43.849525134,
+                "lon": -73.437023993
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.849525134,-73.437023993",
+            "phone": "(518) 585-2831"
+        },
+        {
+            "name": "Arnot Ogden Medical Center",
+            "address": "600 Roe Ave, Elmira, NY, 14905",
+            "location": {
+                "lat": 42.100149419,
+                "lon": -76.827759865
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.100149419,-76.827759865",
+            "phone": "(607) 737-4100"
+        },
+        {
+            "name": "Vassar Brothers Medical Center",
+            "address": "45 Reade Pl, Poughkeepsie, NY, 12601",
+            "location": {
+                "lat": 41.693858939,
+                "lon": -73.935786114
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.693858939,-73.935786114",
+            "phone": "(845) 437-3073"
+        },
+        {
+            "name": "United Memorial Medical Center",
+            "address": "127 North St, Batavia, NY, 14020",
+            "location": {
+                "lat": 43.005026108,
+                "lon": -78.176660378
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.005026108,-78.176660378",
+            "phone": "(585) 343-6030"
+        },
+        {
+            "name": "Upstate University Hospital - Downtown Campus",
+            "address": "750 E Adams St, Syracuse, NY, 13210",
+            "location": {
+                "lat": 43.041897317,
+                "lon": -76.139830463
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.041897317,-76.139830463",
+            "phone": "(315) 464-3284"
+        },
+        {
+            "name": "O'Connor Hospital",
+            "address": "460 Andes Rd, Delhi, NY, 13753",
+            "location": {
+                "lat": 42.268351431,
+                "lon": -74.916391003
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.268351431,-74.916391003",
+            "phone": "(607) 746-0300"
+        },
+        {
+            "name": "Lewis County General Hospital",
+            "address": "7785 N State St, Lowville, NY, 13367",
+            "location": {
+                "lat": 43.795790205,
+                "lon": -75.499118065
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.795790205,-75.499118065",
+            "phone": "(315) 376-5200"
+        },
+        {
+            "name": "Champlain Valley",
+            "address": "75 Beekman St, Plattsburgh, NY, 12901",
+            "location": {
+                "lat": 44.700686319,
+                "lon": -73.469902354
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=44.700686319,-73.469902354",
+            "phone": "(518) 561-2000"
+        },
+        {
+            "name": "St. John's Riverside Hospital - Dobbs Ferry",
+            "address": "128 Ashford Ave, Dobbs Ferry, NY, 10522",
+            "location": {
+                "lat": 41.014392248,
+                "lon": -73.861919649
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.014392248,-73.861919649",
+            "phone": "(914) 693-0700"
+        },
+        {
+            "name": "St. Joseph's Hospital Yonkers",
+            "address": "107 S Broadway, Yonkers, NY, 10701",
+            "location": {
+                "lat": 40.929414719,
+                "lon": -73.897589959
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.929414719,-73.897589959",
+            "phone": "(914) 378-7000"
+        },
+        {
+            "name": "Highland Hospital",
+            "address": "1000 South Ave, Rochester, NY, 14620",
+            "location": {
+                "lat": 43.135291204,
+                "lon": -77.60599645
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.135291204,-77.60599645",
+            "phone": "(585) 275-2951"
+        },
+        {
+            "name": "Lakeside Memorial Hospital",
+            "address": "156 West Ave, Brockport, NY, 14420",
+            "location": {
+                "lat": 43.221584069,
+                "lon": -77.944499052
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.221584069,-77.944499052",
+            "phone": "(585) 395-6065"
+        },
+        {
+            "name": "Forest Hills Hospital",
+            "address": "102-01 66 Road, Flushing, NY, 11375",
+            "location": {
+                "lat": 40.729054157,
+                "lon": -73.851863626
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.729054157,-73.851863626",
+            "phone": "(718) 830-4000"
+        },
+        {
+            "name": "St. Elizabeth Medical Center",
+            "address": "2209 Genesee St, Utica, NY, 13501",
+            "location": {
+                "lat": 43.082171433,
+                "lon": -75.266112032
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.082171433,-75.266112032",
+            "phone": "(315) 734-3172"
+        },
+        {
+            "name": "Brooks Memorial Hospital",
+            "address": "529 Central Ave, Dunkirk, NY, 14048",
+            "location": {
+                "lat": 42.479945141,
+                "lon": -79.334594602
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.479945141,-79.334594602",
+            "phone": "(716) 363-7206"
+        },
+        {
+            "name": "Westfield Memorial Hospital",
+            "address": "189 E Main St, Westfield, NY, 14787",
+            "location": {
+                "lat": 42.328698129,
+                "lon": -79.569808768
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.328698129,-79.569808768",
+            "phone": "(716) 326-4921"
+        },
+        {
+            "name": "St. Luke's Cornwall Hospital - Newburgh Campus",
+            "address": "70 Dubois St, Newburgh, NY, 12550",
+            "location": {
+                "lat": 41.503424849,
+                "lon": -74.014565578
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.503424849,-74.014565578",
+            "phone": "(845) 458-4925"
+        },
+        {
+            "name": "Aurelia Osborn Fox Memorial Hospital",
+            "address": "1 Norton Ave, Oneonta, NY, 13820",
+            "location": {
+                "lat": 42.457793324,
+                "lon": -75.052153475
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.457793324,-75.052153475",
+            "phone": "(607) 431-5305"
+        },
+        {
+            "name": "Samaritan Hospital",
+            "address": "2215 Burdett Ave, Troy, NY, 12180",
+            "location": {
+                "lat": 42.733292485,
+                "lon": -73.672163996
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.733292485,-73.672163996",
+            "phone": "(518) 271-3008"
+        },
+        {
+            "name": "Westchester Square Medical Center",
+            "address": "2475 Raymond Avenue, Bronx, NY, 10461",
+            "location": {
+                "lat": 40.840743111,
+                "lon": -73.848517531
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.840743111,-73.848517531",
+            "phone": "(718) 430-7300"
+        },
+        {
+            "name": "Interfaith Medical Center",
+            "address": "1545 Atlantic Ave, Brooklyn, NY, 11213",
+            "location": {
+                "lat": 40.678233044,
+                "lon": -73.937368335
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.678233044,-73.937368335",
+            "phone": "(718) 613-4000"
+        },
+        {
+            "name": "NYU Hospital for Joint Diseases",
+            "address": "301 E 17Th St, New York, NY, 10003",
+            "location": {
+                "lat": 40.734403133,
+                "lon": -73.982814364
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.734403133,-73.982814364",
+            "phone": "(212) 404-4301"
+        },
+        {
+            "name": "NYP The Allen Hospital",
+            "address": "5141 Broadway, New York, NY, 10034",
+            "location": {
+                "lat": 40.873187173,
+                "lon": -73.913076471
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.873187173,-73.913076471",
+            "phone": "(212) 932-4000"
+        },
+        {
+            "name": "Lutheran Medical Center",
+            "address": "150 55Th St, Brooklyn, NY, 11209",
+            "location": {
+                "lat": 40.646563994,
+                "lon": -74.020914692
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.646563994,-74.020914692",
+            "phone": "(718) 437-5280"
+        },
+        {
+            "name": "Faxton-St. Luke's Healthcare - Faxton Campus",
+            "address": "1676 Sunset Ave, Utica, NY, 13502",
+            "location": {
+                "lat": 43.091009721,
+                "lon": -75.258117125
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.091009721,-75.258117125",
+            "phone": "(315) 431-4384"
+        },
+        {
+            "name": "Community Memorial Hospital",
+            "address": "150 Broad St, Hamilton, NY, 13346",
+            "location": {
+                "lat": 42.813435086,
+                "lon": -75.543404964
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.813435086,-75.543404964",
+            "phone": "(315) 824-1100"
+        },
+        {
+            "name": "Long Beach Medical Center",
+            "address": "455 E Bay Dr, Long Beach, NY, 11561",
+            "location": {
+                "lat": 40.594546587,
+                "lon": -73.652228489
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.594546587,-73.652228489",
+            "phone": "(516) 897-1000"
+        },
+        {
+            "name": "Syosset Hospital",
+            "address": "221 Jericho Tpke, Syosset, NY, 11791",
+            "location": {
+                "lat": 40.810874287,
+                "lon": -73.508666051
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.810874287,-73.508666051",
+            "phone": "(516) 496-6400"
+        },
+        {
+            "name": "Faxton-St. Luke's Healthcare - St. Luke's Campus",
+            "address": "1656 Champlin Ave, New Hartford, NY, 13413",
+            "location": {
+                "lat": 43.096733423,
+                "lon": -75.275893769
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.096733423,-75.275893769",
+            "phone": "(315) 624-6000"
+        },
+        {
+            "name": "Guthrie Corning Hospital",
+            "address": "176 Denison Parkway East, Corning, NY, 14830",
+            "location": {
+                "lat": 42.140600363,
+                "lon": -77.047410395
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.140600363,-77.047410395",
+            "phone": "(607) 937-7200"
+        },
+        {
+            "name": "Metropolitan Hospital Center",
+            "address": "1901 1St Ave, New York, NY, 10029",
+            "location": {
+                "lat": 40.78492694,
+                "lon": -73.944530229
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.78492694,-73.944530229",
+            "phone": "(212) 230-6262"
+        },
+        {
+            "name": "St. Luke's Hospital",
+            "address": "1000 Tenth Ave, New York, NY, 10003",
+            "location": {
+                "lat": 40.769680182,
+                "lon": -73.987044921
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.769680182,-73.987044921",
+            "phone": "(212) 256-3800"
+        },
+        {
+            "name": "Flushing Hospital Medical Center",
+            "address": "45 Th Ave & Parsons Blvd, Flushing, NY, 11355",
+            "location": {
+                "lat": 40.755409923,
+                "lon": -73.816465518
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.755409923,-73.816465518",
+            "phone": "(718) 670-4611"
+        },
+        {
+            "name": "Staten Island University Hospital - North",
+            "address": "475 Seaview Avenue, Staten Island, NY, 10305",
+            "location": {
+                "lat": 40.584984613,
+                "lon": -74.086219886
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.584984613,-74.086219886",
+            "phone": "(518) 226-2000"
+        },
+        {
+            "name": "Claxton-Hepburn Medical Center",
+            "address": "214 King St, Ogdensburg, NY, 13669",
+            "location": {
+                "lat": 44.691590653,
+                "lon": -75.49988778
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=44.691590653,-75.49988778",
+            "phone": "(315) 393-3600"
+        },
+        {
+            "name": "Winthrop-University Hospital",
+            "address": "120 Mineola Blvd Ste 550, Bethpage, NY, 11501",
+            "location": {
+                "lat": 40.740844908,
+                "lon": -73.643064701
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.740844908,-73.643064701",
+            "phone": "(516) 520-2355"
+        },
+        {
+            "name": "Jacobi Medical Center",
+            "address": "1400 Pelham Parkway South, Bronx, NY, 10036",
+            "location": {
+                "lat": 40.856298357,
+                "lon": -73.847512147
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.856298357,-73.847512147",
+            "phone": "(212) 430-5235"
+        },
+        {
+            "name": "Alice Hyde Medical Center",
+            "address": "115 Park Street, Malone, NY, 12953",
+            "location": {
+                "lat": 44.856735149,
+                "lon": -74.291292477
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=44.856735149,-74.291292477",
+            "phone": "(518) 481-6434"
+        },
+        {
+            "name": "Cortland Regional Medical Center",
+            "address": "134 Homer Ave, Cortland, NY, 13045",
+            "location": {
+                "lat": 42.608831468,
+                "lon": -76.187321699
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.608831468,-76.187321699",
+            "phone": "(607) 756-3500"
+        },
+        {
+            "name": "Eastern Long Island Hospital",
+            "address": "201 Manor Pl, Greenport, NY, 11901",
+            "location": {
+                "lat": 41.11036057,
+                "lon": -72.361127319
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.11036057,-72.361127319",
+            "phone": "(516) 369-8966"
+        },
+        {
+            "name": "St. John's Riverside Hospital ParkCare",
+            "address": "2 Park Ave, Yonkers, NY, 10701",
+            "location": {
+                "lat": 40.940197809,
+                "lon": -73.89162408
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.940197809,-73.89162408",
+            "phone": "(914) 964-4444"
+        },
+        {
+            "name": "Cuba Memorial Hospital",
+            "address": "140 W Main St, Cuba, NY, 14727",
+            "location": {
+                "lat": 42.212922472,
+                "lon": -78.287863384
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.212922472,-78.287863384",
+            "phone": "(585) 862-1000"
+        },
+        {
+            "name": "Bronx-Lebanon Hospital Center",
+            "address": "1265 Franklin Ave, Bronx, NY, 10456",
+            "location": {
+                "lat": 40.831591817,
+                "lon": -73.903249384
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.831591817,-73.903249384",
+            "phone": "(718) 294-7100"
+        },
+        {
+            "name": "Elmhurst Hospital Center",
+            "address": "79-01 Brdway, Elmhurst, NY, 11373",
+            "location": {
+                "lat": 40.744827363,
+                "lon": -73.886079665
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.744827363,-73.886079665",
+            "phone": "(718) 334-2920"
+        },
+        {
+            "name": "Millard Fillmore Suburban Hospital",
+            "address": "1540 Maple Rd, Buffalo, NY, 14209",
+            "location": {
+                "lat": 42.994039483,
+                "lon": -78.730238291
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.994039483,-78.730238291",
+            "phone": "(716) 204-5933"
+        },
+        {
+            "name": "Mount Vernon Hospital",
+            "address": "12 N 7Th Ave, Mount Vernon, NY, 10550",
+            "location": {
+                "lat": 40.912709762,
+                "lon": -73.840554872
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.912709762,-73.840554872",
+            "phone": "(914) 361-7624"
+        },
+        {
+            "name": "Sound Shore Medical Center",
+            "address": "16 Guion Pl, New Rochelle, NY, 10801",
+            "location": {
+                "lat": 40.912800819,
+                "lon": -73.787841163
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.912800819,-73.787841163",
+            "phone": "(914) 365-3508"
+        },
+        {
+            "name": "Mercy Medical Center",
+            "address": "1000 N Village Ave, Garden City, NY, 11530",
+            "location": {
+                "lat": 40.688513031,
+                "lon": -73.63160381
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.688513031,-73.63160381",
+            "phone": "(516) 255-0111"
+        },
+        {
+            "name": "Eastern Niagara Hospital",
+            "address": "521 East Ave, Lockport, NY, 14094",
+            "location": {
+                "lat": 43.177371077,
+                "lon": -78.671144281
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.177371077,-78.671144281",
+            "phone": "(716) 434-9111"
+        },
+        {
+            "name": "Eastern Niagara Hospital",
+            "address": "2600 William St, Newfane, NY, 14108",
+            "location": {
+                "lat": 43.288559947,
+                "lon": -78.708316957
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.288559947,-78.708316957",
+            "phone": "(716) 778-5111"
+        },
+        {
+            "name": "Peconic Bay Medical Center",
+            "address": "1300 Roanoke Ave, Riverhead, NY, 11901",
+            "location": {
+                "lat": 40.934263985,
+                "lon": -72.673624949
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.934263985,-72.673624949",
+            "phone": "(631) 548-6000"
+        },
+        {
+            "name": "Good Samaritan Hospital - Suffern",
+            "address": "255 Lafayette Ave, Suffern, NY, 10901",
+            "location": {
+                "lat": 41.111595777,
+                "lon": -74.134811424
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.111595777,-74.134811424",
+            "phone": "(845) 368-5000"
+        },
+        {
+            "name": "Edward John Noble Hospital of Gouverneur",
+            "address": "77 W Barney St, Gouverneur, NY, 13642",
+            "location": {
+                "lat": 44.337584835,
+                "lon": -75.473813659
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=44.337584835,-75.473813659",
+            "phone": "(315) 287-1000"
+        },
+        {
+            "name": "Canton-Potsdam Hospital",
+            "address": "50 Leroy St, Potsdam, NY, 13676",
+            "location": {
+                "lat": 44.676510623,
+                "lon": -74.982116316
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=44.676510623,-74.982116316",
+            "phone": "(315) 261-5935"
+        },
+        {
+            "name": "Southampton Hospital",
+            "address": "240 Meeting House Lane, Southampton, NY, 11968",
+            "location": {
+                "lat": 40.885059735,
+                "lon": -72.379944064
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.885059735,-72.379944064",
+            "phone": "(516) 283-2600"
+        },
+        {
+            "name": "Good Samaritan Hospital - West Islip",
+            "address": "1000 Montauk Highway, Suffern, NY, 10901",
+            "location": {
+                "lat": 40.693880129,
+                "lon": -73.294394616
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.693880129,-73.294394616",
+            "phone": "(631) 357-4725"
+        },
+        {
+            "name": "Stony Brook University Medical Center",
+            "address": "100 Nicolls Rd, Stony Brook, NY, 11790",
+            "location": {
+                "lat": 40.909194455,
+                "lon": -73.115678223
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.909194455,-73.115678223",
+            "phone": "(516) 689-3333"
+        },
+        {
+            "name": "Brooklyn Hospital Center",
+            "address": "121 Dekalb Ave, Brooklyn, NY, 11201",
+            "location": {
+                "lat": 40.690572508,
+                "lon": -73.977883765
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.690572508,-73.977883765",
+            "phone": "(718) 250-8000"
+        },
+        {
+            "name": "The Mount Sinai Hospital of Queens",
+            "address": "25-10 30Th Ave, Astoria, NY, 11102",
+            "location": {
+                "lat": 40.768251857,
+                "lon": -73.924902166
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.768251857,-73.924902166",
+            "phone": "(212) 241-6500"
+        },
+        {
+            "name": "John T. Mather Memorial Hospital",
+            "address": "100 Highlands Blvd, Port Jeff Sta, NY, 11777",
+            "location": {
+                "lat": 40.939479795,
+                "lon": -73.054060065
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.939479795,-73.054060065",
+            "phone": "(631) 331-8200"
+        },
+        {
+            "name": "Glens Falls Hospital",
+            "address": "100 Park St, Glens Falls, NY, 12801",
+            "location": {
+                "lat": 43.306629385,
+                "lon": -73.646312744
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.306629385,-73.646312744",
+            "phone": "(518) 761-5348"
+        },
+        {
+            "name": "Unity Hospital",
+            "address": "1555 Long Pond Rd, Rochester, NY, 14611",
+            "location": {
+                "lat": 43.192712179,
+                "lon": -77.705234093
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.192712179,-77.705234093",
+            "phone": "(585) 368-3411"
+        },
+        {
+            "name": "Niagara Falls Memorial Medical Center",
+            "address": "621 10Th St, Niagara Falls, NY, 14301",
+            "location": {
+                "lat": 43.093920823,
+                "lon": -79.049710131
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.093920823,-79.049710131",
+            "phone": "(716) 275-3351"
+        },
+        {
+            "name": "Children's Hospital of Buffalo",
+            "address": "219 Bryant St, Buffalo, NY, 14222",
+            "location": {
+                "lat": 42.909410447,
+                "lon": -78.875239913
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.909410447,-78.875239913",
+            "phone": "(716) 362-9730"
+        },
+        {
+            "name": "Strong Memorial Hospital",
+            "address": "601 Elmwood Ave, Rochester, NY, 14607",
+            "location": {
+                "lat": 43.122808873,
+                "lon": -77.624259428
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.122808873,-77.624259428",
+            "phone": "(585) 275-2100"
+        },
+        {
+            "name": "Beth Israel Brooklyn",
+            "address": "10 Union Square East, Brooklyn, NY, 10003",
+            "location": {
+                "lat": 40.618840156,
+                "lon": -73.942798318
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.618840156,-73.942798318",
+            "phone": "(212) 252-3000"
+        },
+        {
+            "name": "Geneva General Hospital",
+            "address": "196-198 North St, Geneva, NY, 14456",
+            "location": {
+                "lat": 42.876460481,
+                "lon": -76.98776837
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.876460481,-76.98776837",
+            "phone": "(315) 787-4000"
+        },
+        {
+            "name": "St. Luke's Cornwall Hospital - Cornwall Campus",
+            "address": "19 Laurel Ave, Cornwall, NY, 12518",
+            "location": {
+                "lat": 41.435251362,
+                "lon": -74.04232114
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.435251362,-74.04232114",
+            "phone": "(845) 534-7711"
+        },
+        {
+            "name": "Orange Regional Medical Center",
+            "address": "707 East Main Street, Middletown, NY, 10924",
+            "location": {
+                "lat": 41.441914083,
+                "lon": -74.368312265
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.441914083,-74.368312265",
+            "phone": "(845) 294-4451"
+        },
+        {
+            "name": "Clifton-Fine Hospital",
+            "address": "1014 Oswegatchie Trail, Star Lake, NY, 13690",
+            "location": {
+                "lat": 44.16240704,
+                "lon": -75.056304022
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=44.16240704,-75.056304022",
+            "phone": "(315) 848-3351"
+        },
+        {
+            "name": "Wyckoff Heights Medical Center",
+            "address": "374 Stockholm St, Brooklyn, NY, 11237",
+            "location": {
+                "lat": 40.703964041,
+                "lon": -73.917763697
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.703964041,-73.917763697",
+            "phone": "(718) 963-7272"
+        },
+        {
+            "name": "Mount Sinai Hospital",
+            "address": "1 Gustave L Levy Pl, Long Island City, NY, 10001",
+            "location": {
+                "lat": 40.789767531,
+                "lon": -73.953214274
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.789767531,-73.953214274",
+            "phone": "(212) 241-1000"
+        },
+        {
+            "name": "Crouse Hospital",
+            "address": "736 Irving Ave, Syracuse, NY, 13210",
+            "location": {
+                "lat": 43.041441939,
+                "lon": -76.138151308
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=43.041441939,-76.138151308",
+            "phone": "(315) 470-7111"
+        },
+        {
+            "name": "Hospital for Special Surgery",
+            "address": "535 East 70Th St, New York, NY, 10021",
+            "location": {
+                "lat": 40.764395143,
+                "lon": -73.954199385
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.764395143,-73.954199385",
+            "phone": "(212) 606-1000"
+        },
+        {
+            "name": "Coney Island Hospital",
+            "address": "2601 Ocean Parkway, Brooklyn, NY, 11235",
+            "location": {
+                "lat": 40.585414381,
+                "lon": -73.965332434
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.585414381,-73.965332434",
+            "phone": "(718) 615-4000"
+        },
+        {
+            "name": "The Addiction Institute of New York",
+            "address": "1000 10Th Ave, New York, NY, 10019",
+            "location": {
+                "lat": 40.769911817,
+                "lon": -73.986867882
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.769911817,-73.986867882",
+            "phone": "(212) 256-3800"
+        },
+        {
+            "name": "Jamaica Hospital Medical Center",
+            "address": "8900 Van Wyck Expressway, Jamaica, NY, 11414",
+            "location": {
+                "lat": 40.700103647,
+                "lon": -73.816114892
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.700103647,-73.816114892",
+            "phone": "(718) 206-6000"
+        },
+        {
+            "name": "Albert Einstein College of Medicine",
+            "address": "111 East 210 St, Bronx, NY, 10461",
+            "location": {
+                "lat": 40.852470792,
+                "lon": -73.846406552
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.852470792,-73.846406552",
+            "phone": "(718) 405-4000"
+        },
+        {
+            "name": "RYE Ambulatory Surgery Center",
+            "address": "1 Theall Rd, Rye, NY, 10580",
+            "location": {
+                "lat": 40.974168063,
+                "lon": -73.697518205
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.974168063,-73.697518205",
+            "phone": "(607) 547-6377"
+        },
+        {
+            "name": "Mercy Hospital",
+            "address": "Mercy Amb Care Ctr, Orchard Park, NY, 14127",
+            "location": {
+                "lat": 42.780148619,
+                "lon": -78.772693138
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.780148619,-78.772693138",
+            "phone": "(716) 662-0550"
+        },
+        {
+            "name": "Margaretville Memorial Hospital",
+            "address": "42084 State Highway 28, Margaretville, NY, 12455",
+            "location": {
+                "lat": 42.146653558,
+                "lon": -74.642069268
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.146653558,-74.642069268",
+            "phone": "(845) 586-2631"
+        },
+        {
+            "name": "Helen Hayes Hospital",
+            "address": "51 North Route 9W, West Harvestraw, NY, 10993",
+            "location": {
+                "lat": 41.214307232,
+                "lon": -73.988344716
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.214307232,-73.988344716",
+            "phone": "(845) 786-4000"
+        },
+        {
+            "name": "Nyack Hospital",
+            "address": "160 N Midland Ave, Nyack, NY, 10960",
+            "location": {
+                "lat": 41.096211471,
+                "lon": -73.926018132
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=41.096211471,-73.926018132",
+            "phone": "(845) 348-2000"
+        },
+        {
+            "name": "Sunnyview Rehabilitation Hospital",
+            "address": "1270 Belmont Ave, Schenectady, NY, 12308",
+            "location": {
+                "lat": 42.820171418,
+                "lon": -73.916312501
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.820171418,-73.916312501",
+            "phone": "(518) 382-4500"
+        },
+        {
+            "name": "St. James Mercy Health System",
+            "address": "411 Canisteo St, Hornell, NY, 14843",
+            "location": {
+                "lat": 42.313873273,
+                "lon": -77.660613104
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.313873273,-77.660613104",
+            "phone": "(607) 324-8000"
+        },
+        {
+            "name": "Sisters of Charity Hospital",
+            "address": "2157 Main St, Buffalo, NY, 14214",
+            "location": {
+                "lat": 42.928436892,
+                "lon": -78.848458645
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.928436892,-78.848458645",
+            "phone": "(716) 833-2073"
+        },
+        {
+            "name": "Montefiore Medical Center - Moses Division",
+            "address": "111 E 210Th St, Bronx, NY, 10466",
+            "location": {
+                "lat": 40.880079256,
+                "lon": -73.879826699
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.880079256,-73.879826699",
+            "phone": "(718) 920-2060"
+        },
+        {
+            "name": "Delaware Valley Hospital",
+            "address": "1 Titus Pl, Walton, NY, 13856",
+            "location": {
+                "lat": 42.164274788,
+                "lon": -75.128717632
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.164274788,-75.128717632",
+            "phone": "(607) 865-2100"
+        },
+        {
+            "name": "Buffalo General Medical Center",
+            "address": "100 High St, Buffalo, NY, 14203",
+            "location": {
+                "lat": 42.900868413,
+                "lon": -78.866209761
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.900868413,-78.866209761",
+            "phone": "(716) 592-2871"
+        },
+        {
+            "name": "Noyes Memorial Hospital",
+            "address": "Nicholas H. Noyes Memorial Hospital, Dansville, NY, 14437",
+            "location": {
+                "lat": 42.552647065,
+                "lon": -77.697761277
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=42.552647065,-77.697761277",
+            "phone": "(585) 335-6000"
+        },
+        {
+            "name": "North Central Bronx Hospital",
+            "address": "3424 Kossuth Ave, Bronx, NY, 10467",
+            "location": {
+                "lat": 40.880365601,
+                "lon": -73.881057106
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.880365601,-73.881057106",
+            "phone": "(212) 519-3495"
+        },
+        {
+            "name": "St Charles Hospital and Rehabilitation Center",
+            "address": "200 Belle Terre Rd, Albertson, NY, 11507",
+            "location": {
+                "lat": 40.946631226,
+                "lon": -73.060963223
+            },
+            "google_map": "https://www.google.com/maps/search/?api=1&query=40.946631226,-73.060963223",
+            "phone": "(516) 382-4550"
         }
     ]
 }
